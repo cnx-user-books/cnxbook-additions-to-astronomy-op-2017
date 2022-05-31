@@ -1,0 +1,145 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>modify p 566 table</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63842</md:content-id>
+  <md:title>modify p 566 table</md:title>
+  <md:abstract>modify p 566 table to include masses expressed in MeV</md:abstract>
+  <md:uuid>27b3494e-ff0d-4ff1-b5db-9b2b6b04664a</md:uuid>
+</metadata>
+
+<content>
+    <table id="eip-72" summary="later">
+<tgroup cols="4"><tbody>
+  <row>
+    <entry>Particle</entry>
+            <entry>Mass (kg)</entry>
+            <entry>Mass (MeV/c<sup>2</sup>)</entry>
+            <entry>Charge</entry>
+  </row>
+  <row>
+    <entry>Proton</entry>
+    <entry>
+              <m:math overflow="scroll">
+                <m:mrow>
+                  <m:mn>1</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>67265</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>27</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:math>
+            </entry>
+            <entry>
+              <m:math overflow="scroll">
+                <m:mrow>
+                  <m:mn>938</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>272</m:mn>
+                </m:mrow>
+              </m:math>
+            </entry>
+            <entry>+1</entry>
+  </row>
+  <row>
+    <entry>Neutron</entry>
+    <entry>
+              <m:math overflow="scroll">
+                <m:mrow>
+                  <m:mn>1</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>67495</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>27</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:math>
+            </entry>
+            <entry>
+              <m:math overflow="scroll">
+                <m:mrow>
+                  <m:mn>939</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>566</m:mn>
+                  <m:mspace width="0.166667em"/>
+                </m:mrow>
+              </m:math>
+            </entry>
+            <entry>0</entry>
+  </row>
+  <row>
+    <entry>Electron</entry>
+    <entry>
+              <m:math overflow="scroll">
+                <m:mrow>
+                  <m:mn>9</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>11</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>31</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mspace width="0.166667em"/>
+                </m:mrow>
+              </m:math>
+            </entry>
+            <entry>
+              <m:math overflow="scroll">
+                <m:mrow>
+                  <m:mn>0</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>511</m:mn>
+                </m:mrow>
+              </m:math>
+            </entry>
+            <entry>-1</entry>
+  </row>
+  <row>
+    <entry>Neutrino</entry>
+   <entry><m:math overflow="scroll"><m:mrow><m:mo>&lt;</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>36</m:mn></m:mrow></m:msup></m:mrow></m:math> (uncertain)</entry>
+            <entry>
+              <m:math overflow="scroll">
+                <m:mrow>
+                  <m:mo>&lt;</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>6</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:math>
+            </entry>
+            <entry>0</entry>
+  </row>
+</tbody>
+
+
+
+
+
+
+
+
+
+
+</tgroup>
+</table></content>
+</document>

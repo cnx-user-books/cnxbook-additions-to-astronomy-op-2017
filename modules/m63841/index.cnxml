@@ -1,0 +1,986 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Derived copy of The H–R Diagram and Cosmic Distances</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63841</md:content-id>
+  <md:title>Derived copy of The H–R Diagram and Cosmic Distances</md:title>
+  <md:abstract/>
+  <md:uuid>a5b12055-3e39-4530-b5bf-36ed280be4e5</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1165721061044" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-id1168583547255">By the end of this section, you will be able to:</para>
+<list id="fs-id1165721065479">
+<item>Understand how spectral types are used to estimate stellar luminosities</item>
+<item>Examine how these techniques are used by astronomers today</item>
+</list>
+</section>
+<para id="fs-id1165719745144">Variable stars are not the only way that we can estimate the luminosity of stars. Another way involves the H–R diagram, which shows that the intrinsic brightness of a star can be estimated if we know its spectral type.</para>
+<section id="fs-id1165720826367">
+<title>Distances from Spectral Types</title>
+<para id="fs-id1165720769757">As satisfying and productive as variable stars have been for distance measurement, these stars are rare and are not found near all the objects to which we wish to measure distances. Suppose, for example, we need the distance to a star that is not varying, or to a group of stars, none of which is a variable. In this case, it turns out the <term class="no-emphasis">H–R diagram</term> can come to our rescue.</para>
+<para id="fs-id1165721034203">If we can observe the spectrum of a star, we can estimate its distance from our understanding of the H–R diagram. As discussed in <link class="target-chapter" document="m59889">Analyzing Starlight</link>, a detailed examination of a stellar spectrum allows astronomers to classify the star into one of the <emphasis effect="italics">spectral types</emphasis> indicating surface temperature. (The types are O, B, A, F, G, K, M, L, T, and Y; each of these can be divided into numbered subgroups.) In general, however, the spectral type alone is not enough to allow us to estimate luminosity. Look again at <link target-id="OSC_Astro_18_04_HR" document="m59901"/>. A G2 star could be a main-sequence star with a luminosity of 1 <emphasis effect="italics">L</emphasis><sub>Sun</sub>, or it could be a giant with a luminosity of 100 <emphasis effect="italics">L</emphasis><sub>Sun</sub>, or even a supergiant with a still higher luminosity.</para>
+<para id="fs-id1165719628963">We can learn more from a star’s spectrum, however, than just its temperature. Remember, for example, that we can detect pressure differences in stars from the details of the spectrum. This knowledge is very useful because giant stars are larger (and have lower pressures) than main-sequence stars, and supergiants are still larger than giants. If we look in detail at the spectrum of a star, we can determine whether it is a main-sequence star, a giant, or a supergiant.</para>
+<para id="fs-id1165720940719">Suppose, to start with the simplest example, that the spectrum, color, and other properties of a distant G2 star match those of the Sun exactly. It is then reasonable to conclude that this distant star is likely to be a main-sequence star just like the Sun and to have the same luminosity as the Sun. But if there are subtle differences between the solar spectrum and the spectrum of the distant star, then the distant star may be a giant or even a supergiant.</para>
+<para id="fs-id1165720758460">The most widely used system of star classification divides stars of a given spectral class into six categories called <term>luminosity classes</term>. These luminosity classes are denoted by Roman numbers as follows:</para>
+<list id="fs-id1163975397633" list-type="bulleted" bullet-style="bullet">
+<item>Ia: Brightest supergiants</item>
+<item>Ib: Less luminous supergiants</item>
+<item>II: Bright giants</item>
+<item>III: Giants</item>
+<item>IV: Subgiants (intermediate between giants and main-sequence stars)</item>
+<item>V: Main-sequence stars</item>
+</list>
+<para id="fs-id1165719779481">The full spectral specification of a star includes its luminosity class. For example, a main-sequence star with spectral class F3 is written as F3 V. The specification for an M2 giant is M2 III. <link target-id="OSC_Astro_19_04_Classes"/> illustrates the approximate position of stars of various luminosity classes on the H–R diagram. The dashed portions of the lines represent regions with very few or no stars.</para>
+<figure id="OSC_Astro_19_04_Classes">
+<title>Luminosity Classes.</title>
+<media id="fs-id1165720935148" alt="Luminosity Classes. In this graph the vertical axis is labeled “Luminosity (L_Sun),” running from 10^-4 to 10^6 in increments of 10^2. The horizontal axis is labeled “Spectral class,” and is divided into seven equal length units. From left to right they are labeled: “O,” “B,” “A,” “F,” “G,” “K,” and “M.” The horizontal axis is also labeled “Temperature (K),” running from 25,000 on the left to 3,000 on the right. Also labeled on the horizontal axis is “Color Index.” Four values are given, “-0.4” at the beginning of spectral class “O,” “0.0” at the beginning of spectral class “A,” “0.6” at the beginning of spectral class “G,” and “+1.4” at the beginning of spectral class “M.” The five main classes of stars are plotted. Beginning at lower left of the image is an isolated group of stars labeled “White Dwarfs.” The majority of stars lie on the “Main Sequence,” which runs diagonally from upper left to lower right. Running horizontally from the center of the graph to the right is the band of “Giants.” Finally, a small number of stars running horizontally across the top of the graph are the “Supergiants.” Blue curves are plotted indicating the luminosity classes. The first blue curve crosses the entire upper part of the plot at about 10^5 L_Sun and is labeled “Ia,” corresponding to the supergiants. Parallel to “Ia,” but lower at about 10^4 L_Sun, is the blue curve of “Ib,” a subdivision of the supergiants. The next horizontal blue curve at about 10^3 L_Sun is that of luminosity class “II,” corresponding to the bright giants. The next blue curve begins on the main sequence at about spectral type A and goes horizontally to the right at about 10^2 L_Sun. This curve is labeled “III” for the giants. Another blue curve is drawn between the giants and the main sequence. It is labeled as luminosity class “IV,” corresponding to the subgiants. Finally, the last blue curve traces the entire length of the main sequence and is labeled “V.”">
+<image mime-type="image/jpeg" src="../../media/OSC_Astro_19_04_Classes.jpg"/>
+</media>
+<caption>Stars of the same temperature (or spectral class) can fall into different luminosity classes on the Hertzsprung-Russell diagram. By studying details of the spectrum for each star, astronomers can determine which luminosity class they fall in (whether they are main-sequence stars, giant stars, or supergiant stars).</caption>
+</figure>
+<para id="fs-id1165720786387">With both its spectral and luminosity classes known, a star’s position on the H–R diagram is uniquely determined. Since the diagram plots luminosity versus temperature, this means we can now read off the star’s luminosity (once its spectrum has helped us place it on the diagram). As before, if we know how luminous the star really is and see how dim it looks, the difference allows us to calculate its distance. (For historical reasons, astronomers sometimes call this method of distance determination <emphasis effect="italics">spectroscopic parallax</emphasis>, even though the method has nothing to do with parallax.)</para>
+<para id="fs-id1165719708044">The H–R diagram method allows astronomers to estimate distances to nearby stars, as well as some of the most distant stars in our Galaxy, but it is anchored by measurements of parallax. The distances measured using parallax are the gold standard for distances: they rely on no assumptions, only geometry. Once astronomers take a spectrum of a nearby star for which we also know the parallax, we know the luminosity that corresponds to that spectral type. Nearby stars thus serve as benchmarks for more distant stars because we can assume that two stars with identical spectra have the same intrinsic luminosity.</para>
+</section>
+<section id="fs-id1165720997828">
+<title>A Few Words about the Real World</title>
+<para id="fs-id1165721118654">Introductory textbooks such as ours work hard to present the material in a straightforward and simplified way. In doing so, we sometimes do our students a disservice by making scientific techniques seem too clean and painless. In the real world, the techniques we have just described turn out to be messy and difficult, and often give astronomers headaches that last long into the day.</para>
+<para id="fs-id1165720930228">For example, the relationships we have described such as the period-luminosity relation for certain variable stars aren’t exactly straight lines on a graph. The points representing many stars scatter widely when plotted, and thus, the distances derived from them also have a certain built-in scatter or uncertainty.</para>
+<para id="fs-id1165720715203">The distances we measure with the methods we have discussed are therefore only accurate to within a certain percentage of error—sometimes 10%, sometimes 25%, sometimes as much as 50% or more. A 25% error for a star estimated to be 10,000 light-years away means it could be anywhere from 7500 to 12,500 light-years away. This would be an unacceptable uncertainty if you were loading fuel into a spaceship for a trip to the star, but it is not a bad first figure to work with if you are an astronomer stuck on planet Earth.</para>
+<para id="fs-id1165720966465">Nor is the construction of H–R diagrams as easy as you might think at first. To make a good diagram, one needs to measure the characteristics and distances of many stars, which can be a time-consuming task. Since our own solar neighborhood is already well mapped, the stars astronomers most want to study to advance our knowledge are likely to be far away and faint. It may take hours of observing to obtain a single spectrum. Observers may have to spend many nights at the telescope (and many days back home working with their data) before they get their distance measurement. Fortunately, this is changing because surveys like Gaia will study billions of stars, producing public datasets that all astronomers can use.</para>
+<para id="fs-id1165719776259">Despite these difficulties, the tools we have been discussing allow us to measure a remarkable range of distances—parallaxes for the nearest stars, RR Lyrae variable stars; the H–R diagram for clusters of stars in our own and nearby galaxies; and cepheids out to distances of 60 million light-years. <link target-id="fs-id1165720742736"/> describes the distance limits and overlap of each method.</para>
+<para id="fs-id1165720686757">Each technique described in this chapter builds on at least one other method, forming what many call the <emphasis effect="italics">cosmic distance ladder</emphasis>. Parallaxes are the foundation of all stellar distance estimates, spectroscopic methods use nearby stars to calibrate their H–R diagrams, and RR Lyrae and cepheid distance estimates are grounded in H–R diagram distance estimates (and even in a parallax measurement to a nearby cepheid, <term class="no-emphasis">Delta Cephei</term>).</para>
+<para id="fs-id1165719563181">This chain of methods allows astronomers to push the limits when looking for even more distant stars. Recent work, for example, has used RR Lyrae stars to identify dim companion galaxies to our own Milky Way out at distances of 300,000 light-years. The H–R diagram method was recently used to identify the two most distant stars in the Galaxy: red giant stars way out in the halo of the Milky Way with distances of almost 1 million light-years.</para>
+<para id="fs-id1165721065002">We can combine the distances we find for stars with measurements of their composition, luminosity, and temperature—made with the techniques described in <link class="target-chapter" document="m59889">Analyzing Starlight</link> and <link class="target-chapter" document="m59897">The Stars: A Celestial Census</link>. Together, these make up the arsenal of information we need to trace the evolution of stars from birth to death, the subject to which we turn in the chapters that follow.</para>
+<table id="fs-id1165720742736" summary="This table has two columns and five rows. The first row is a header row, and it labels each column, “Method,” and “Distance Range.” Under the “Method” column are the values, “Trigonometric parallax,” “R R Lyrae stars,” “H–R diagram and spectroscopic distances,” and “Cepheid Stars.” Under the “Distance Range” column are the values, “4 – 30,000 L Y when the Gaia mission is complete,” “Out to 300,000 L Y,” “Out to 1,200,000 L Y,” and “Out to 60,000,000 L Y.”" class="span-all">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Distance Range of Celestial Measurement Methods</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Method</entry>
+<entry valign="top" align="center">Distance Range</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Trigonometric parallax</entry>
+<entry valign="top" align="left">4–30,000 light-years when the Gaia mission is complete</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">RR Lyrae stars</entry>
+<entry valign="top" align="left">Out to 300,000 light-years</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">H–R diagram and spectroscopic distances</entry>
+<entry valign="top" align="left">Out to 1,200,000 light-years</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Cepheid stars</entry>
+<entry valign="top" align="left">Out to 60,000,000 light-years	</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+<code id="eip-759" display="block"><newline count="4"/></code><section id="eip-85"><title>Three ways to find distances</title><para id="import-auto-idm248095168">Let us actually find the distance to a star using the parallax technique. The bright Southern star Beta Doradus was observed by the Fine Guidance Sensor on the Hubble Space Telescope<sup><footnote id="import-auto-footnote-1"><para id="import-auto-idm265657088">G. Fritz Benedict,<emphasis effect="italics"> et al.,</emphasis> The Astronomical Journal, Volume 133, Issue 4, pp. 1810-1827 (2007)</para></footnote></sup> to have a parallax of 0.00314 ±0.000016 arc seconds, so its distance is</para><para id="import-auto-idm412141424">D (pc) = 1/parallax (s) = 1/(0.00314 ±0.000059 s) = 318±15 pc.</para>
+      <para id="import-auto-idm258845696">If we want to understand the <emphasis effect="italics">why</emphasis> of stars as well as the <emphasis effect="italics">what</emphasis>, we must add to its catalogue of extrinsic properties like distance, position in the sky, spectral type, and <emphasis effect="italics">apparent brightness</emphasis> (b), that as seen at Earth.  The first step in investigating a star’s intrinsic properties is to define its <emphasis effect="italics">absolute brightness</emphasis> or <emphasis effect="italics">luminosity</emphasis> (L), defined as how bright it would be if it were precisely 10 pc away.</para>
+      <para id="import-auto-idm510304784">As seen in Figure 5.5, brightness falls off with the square of the distance, so the ratio of the luminosity at 10 pc, L<sub>@10pc</sub>, to the <emphasis effect="italics">apparent </emphasis>brightness, b, we see at its true distance will give the ratios of the squares of the star’s true distance divided by 10 pc:<sup><footnote id="import-auto-footnote-2"> The subscript is redundant but helpful to keep the first few times one encounters this idea.</footnote></sup></para>
+      <para id="import-auto-idm248654288"><m:math display="block"><m:semantics><m:mrow><m:mrow><m:mfrac><m:msub><m:mi>L</m:mi><m:mrow><m:mi>@</m:mi><m:mtext>10</m:mtext><m:mstyle mathvariant="italic"><m:mtext>pc</m:mtext></m:mstyle></m:mrow></m:msub><m:mi>b</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:msup><m:mi>D</m:mi><m:mn>2</m:mn></m:msup><m:msup><m:mrow><m:mo fence="true" stretchy="true">(</m:mo><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mstyle mathvariant="italic"><m:mtext>pc</m:mtext></m:mstyle></m:mrow></m:mrow><m:mo fence="true" stretchy="true">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mfrac></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {L rSub { size 8{@"10" ital "pc"} } }  over  {b} } = {  {D rSup { size 8{2} } }  over  { left ("10" ital "pc" right ) rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math>  .</para>
+      <para id="import-auto-idm552691136">In Example 17 we presented a relationship between the ratio of brightnesses of two different stars and their <emphasis effect="italics">apparent magnitudes</emphasis> .  (The difference of the latter is proportional to the logarithm of the former.) We can use this same relation for the ratio for <emphasis effect="italics">absolute luminosity</emphasis>  (L) to the <emphasis effect="italics">apparent brightness</emphasis> (b) of a single star in for the parallel quantities called the <emphasis effect="italics">absolute magnitude </emphasis>(M)<emphasis effect="italics"/>and<emphasis effect="italics"> apparent magnitude</emphasis>  (m).  That is</para>
+      <para id="import-auto-idm540105232">
+        <m:math display="block">
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mi>M</m:mi>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>2</m:mn>
+                </m:mrow>
+                <m:mtext>.</m:mtext>
+                <m:mn>5</m:mn>
+                <m:mtext>log</m:mtext>
+                <m:mrow>
+                  <m:mo fence="true" stretchy="true">(</m:mo>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mi>L</m:mi>
+                      <m:mi>b</m:mi>
+                    </m:mfrac>
+                  </m:mrow>
+                  <m:mo fence="true" stretchy="true">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{m-M=2 "." 5"log" left ( {  {L}  over  {b} }  right )} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="import-auto-idm269438224">If we know the distance from its parallax, we can use distance ratio above in this expression to give the intrinsic, <emphasis effect="italics">absolute magnitude </emphasis>(M) of any star:  </para>
+      <para id="import-auto-idm473148048"><m:math display="block"><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>M</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mrow><m:mtext>.</m:mtext><m:mn>5</m:mn><m:mtext>log</m:mtext><m:mrow><m:mrow><m:mo fence="true" stretchy="true">(</m:mo><m:mrow><m:mfrac><m:mi>L</m:mi><m:mi>b</m:mi></m:mfrac></m:mrow><m:mo fence="true" stretchy="true">)</m:mo></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mrow><m:mtext>.</m:mtext><m:mn>5</m:mn><m:mtext>log</m:mtext><m:mrow><m:mrow><m:mo fence="true" stretchy="true">(</m:mo><m:mrow><m:msup><m:mrow><m:mo fence="true" stretchy="true">(</m:mo><m:mrow><m:mfrac><m:mi>D</m:mi><m:mrow><m:mtext>10</m:mtext><m:mstyle mathvariant="italic"><m:mtext>pc</m:mtext></m:mstyle></m:mrow></m:mfrac></m:mrow><m:mo fence="true" stretchy="true">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow><m:mo fence="true" stretchy="true">)</m:mo></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mrow><m:mtext>log</m:mtext><m:mrow><m:mo fence="true" stretchy="true">(</m:mo><m:mrow><m:mfrac><m:mi>D</m:mi><m:mrow><m:mtext>10</m:mtext><m:mstyle mathvariant="italic"><m:mtext>pc</m:mtext></m:mstyle></m:mrow></m:mfrac></m:mrow><m:mo fence="true" stretchy="true">)</m:mo></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{M=m-2 "." 5"log" left ( {  {L}  over  {b} }  right )=m-2 "." 5"log" left ( left ( {  {D}  over  {"10" ital "pc"} }  right ) rSup { size 8{2} }  right )=m-5"log" left ( {  {D}  over  {"10" ital "pc"} }  right )} {}</m:annotation></m:semantics></m:math>  ,</para>
+      <para id="import-auto-idm553260032">where we have used the property of logarithms that <m:math display="block"><m:semantics><m:mrow><m:mrow><m:mtext>log</m:mtext><m:mrow><m:mrow><m:mo fence="true" stretchy="true">(</m:mo><m:mrow><m:msup><m:mi>a</m:mi><m:mi>p</m:mi></m:msup></m:mrow><m:mo fence="true" stretchy="true">)</m:mo></m:mrow><m:mo stretchy="false">=</m:mo><m:mi>p</m:mi></m:mrow><m:mtext>log</m:mtext><m:mrow><m:mo fence="true" stretchy="true">(</m:mo><m:mrow><m:mi>a</m:mi></m:mrow><m:mo fence="true" stretchy="true">)</m:mo></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"log" left (a rSup { size 8{p} }  right )=p"log" left (a right )} {}</m:annotation></m:semantics></m:math> to simplify the expression.  </para>
+      <para id="import-auto-idm1135074720">Beta Doradus is a Cepheid variable star whose apparent visual magnitude (m<sub>V</sub>) (seen through a green filter) is shown fluctuating around 3.63 over a full cycle in Fig. A.  Thus, its absolute magnitude (M<sub>V</sub>) must be</para>
+      <para id="import-auto-idm1706585776"><m:math display="block"><m:semantics><m:mrow><m:mrow><m:mrow><m:msub><m:mi>M</m:mi><m:mi>V</m:mi></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>m</m:mi><m:mi>V</m:mi></m:msub><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mrow><m:mtext>log</m:mtext><m:mrow><m:mrow><m:mo fence="true" stretchy="true">(</m:mo><m:mrow><m:mfrac><m:mi>D</m:mi><m:mrow><m:mtext>10</m:mtext><m:mstyle mathvariant="italic"><m:mtext>pc</m:mtext></m:mstyle></m:mrow></m:mfrac></m:mrow><m:mo fence="true" stretchy="true">)</m:mo></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>63</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow><m:mtext>log</m:mtext><m:mrow><m:mrow><m:mo fence="true" stretchy="true">(</m:mo><m:mrow><m:mrow><m:mtext>31</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">±</m:mo><m:mn>1</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>5</m:mn></m:mrow></m:mrow><m:mo fence="true" stretchy="true">)</m:mo></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>63</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:mo fence="true" stretchy="true">(</m:mo><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>50</m:mtext><m:mo stretchy="false">±</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>02</m:mtext></m:mrow></m:mrow><m:mo fence="true" stretchy="true">)</m:mo></m:mrow><m:mtext>=-</m:mtext><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>88</m:mtext><m:mo stretchy="false">±</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>1</m:mn></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{M rSub { size 8{V} } =m rSub { size 8{V} } -5"log" left ( {  {D}  over  {"10" ital "pc"} }  right )=3 "." "63"-5"log" left ("31" "." 8 +- 1 "." 5 right )=3 "." "63"-5 left (1 "." "50" +- 0 "." "02" right )"=-"3 "." "88" +- 0 "." 1} {}</m:annotation></m:semantics></m:math>  .</para>
+      <para id="import-auto-idm274188160">That is, Beta Doradus would be almost as bright as Venus if it actually were 10 pc away rather than 318.  </para>
+      <para id="import-auto-idm196730640">Annie Jump Cannon was the central figure in establishing a catalogue of extrinsic spectroscopic properties of stars, a scaffold from which those who followed her might be able to garner ideas about the intrinsic properties of stars.  Major progress on this road was made by her young colleague Cecilia Helena Payne (later Payne-Gaposchkin, May 10, 1900 – December 7, 1979), in 1925 the first person to earn a Ph.D. in Astronomy from Radcliff (now part of Harvard). </para>
+      <para id="import-auto-idm486978240">Her doctoral dissertation, published as “Stellar Atmospheres, A Contribution to the Observational Study of High Temperature in the Reversing Layers of Stars” is one of the most highly read doctoral dissertations of all time. Building on the ionization theory developed by Indian physicist Megh Nad Saha, she was able to show that Cannon’s classification system was a measure of stars’ temperatures.  She also upended the conventional wisdom that stars’ compositions were roughly in proportion to the abundances on Earth by showing that stars contained roughly a million times more hydrogen than elements heavier than helium, a group of elements collectively referred to as “metals” by astronomers, though of course containing other sorts of heavy elements. </para>
+      <para id="import-auto-idm425994256">Modern determinations of the absolute magnitude correct for variations in a star’s proportion of such elements, called its “metallicity.”  They also correct for other intrinsic effects like a Cepheid’s evolutionary stage as it passes through what is called the instability strip color of the HR diagram, and extrinsic effects of like interstellar dust that reddens and dims the light from a star.  All of these effects alter m<sub>V</sub> and hence the value we calculate for M<sub>V</sub>. With such considerations, David G. Turner<sup><footnote id="import-auto-footnote-3"> David G. Turner, Astrophysics and Space Science, Volume 326, Issue 2, pp 219–231, 2010.</footnote></sup> places the absolute visual magnitude of Beta Doradus at </para>
+      <para id="import-auto-idm495640672">M<sub>V</sub> = -3.91 ± 0.11  .</para>
+      <para id="import-auto-idm528885632">Once one has calibrated many stars in Cannon’s classification scheme through this means, Cepheid or not, one may reverse the process and find a star’s distance from its absolute magnitude by using the other relation in Example 17,</para>
+      <para id="import-auto-idm502757920"><m:math display="block"><m:semantics><m:mrow><m:mrow><m:mrow><m:mfrac><m:msub><m:mi>L</m:mi><m:mrow><m:mi>@</m:mi><m:mtext>10</m:mtext><m:mstyle mathvariant="italic"><m:mtext>pc</m:mtext></m:mstyle></m:mrow></m:msub><m:mi>b</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:msup><m:mrow><m:mo fence="true" stretchy="true">(</m:mo><m:mrow><m:msup><m:mtext>100</m:mtext><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mn>2</m:mn></m:mrow></m:msup></m:mrow><m:mo fence="true" stretchy="true">)</m:mo></m:mrow><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">−</m:mo><m:mi>M</m:mi></m:mrow></m:msup><m:mo stretchy="false">=</m:mo><m:mn>2</m:mn></m:mrow><m:mtext>.</m:mtext><m:msup><m:mtext>512</m:mtext><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">−</m:mo><m:mi>M</m:mi></m:mrow></m:msup></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {L rSub { size 8{@"10" ital "pc"} } }  over  {b} } = left ("100" rSup { size 8{0 "." 2} }  right ) rSup { size 8{m-M} } =2 "." "512" rSup { size 8{m-M} } } {}</m:annotation></m:semantics></m:math>  .</para>
+      <para id="import-auto-idm511808992">This slips nicely into our distance relation to give</para>
+      <para id="import-auto-idm461125536"><m:math display="block">
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>D</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>10</m:mtext>
+                </m:mrow>
+                <m:mstyle mathvariant="italic">
+                  <m:mtext>pc</m:mtext>
+                </m:mstyle>
+                <m:mrow>
+                  <m:msqrt>
+                    <m:mfrac>
+                      <m:msub>
+                        <m:mi>L</m:mi>
+                        <m:mrow>
+                          <m:mi>@</m:mi>
+                          <m:mtext>10</m:mtext>
+                          <m:mstyle mathvariant="italic">
+                            <m:mtext>pc</m:mtext>
+                          </m:mstyle>
+                        </m:mrow>
+                      </m:msub>
+                      <m:mi>b</m:mi>
+                    </m:mfrac>
+                  </m:msqrt>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>10</m:mtext>
+                </m:mrow>
+                <m:mstyle mathvariant="italic">
+                  <m:mtext>pc</m:mtext>
+                </m:mstyle>
+                <m:mrow>
+                  <m:msqrt>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo fence="true" stretchy="true">(</m:mo>
+                        <m:mrow>
+                          <m:msup>
+                            <m:mtext>100</m:mtext>
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                              <m:mtext>.</m:mtext>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:msup>
+                        </m:mrow>
+                        <m:mo fence="true" stretchy="true">)</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>m</m:mi>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mi>M</m:mi>
+                      </m:mrow>
+                    </m:msup>
+                  </m:msqrt>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>10</m:mtext>
+                </m:mrow>
+                <m:mstyle mathvariant="italic">
+                  <m:mtext>pc</m:mtext>
+                </m:mstyle>
+                <m:mrow>
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mtext>.</m:mtext>
+                      <m:msup>
+                        <m:mtext>512</m:mtext>
+                        <m:mrow>
+                          <m:mi>m</m:mi>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mi>M</m:mi>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:msqrt>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>10</m:mtext>
+                </m:mrow>
+                <m:mrow>
+                  <m:mstyle mathvariant="italic">
+                    <m:mtext>pc</m:mtext>
+                  </m:mstyle>
+                  <m:mo stretchy="false">∗</m:mo>
+                  <m:mn>1</m:mn>
+                </m:mrow>
+                <m:mtext>.</m:mtext>
+                <m:msup>
+                  <m:mtext>585</m:mtext>
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mi>M</m:mi>
+                  </m:mrow>
+                </m:msup>
+              </m:mrow>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{D="10" ital "pc" sqrt { {  {L rSub { size 8{@"10" ital "pc"} } }  over  {b} } } ="10" ital "pc" sqrt { left ("100" rSup { size 8{0 "." 2} }  right ) rSup { size 8{m-M} } } ="10" ital "pc" sqrt {2 "." "512" rSup { size 8{m-M} } } ="10" ital "pc"×1 "." "585" rSup { size 8{m-M} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="import-auto-idm242804352">This is a helpful new rung on a distance ladder for finding distances to stars too far away for parallax measurements and is called <emphasis effect="italics">spectroscopic parallax</emphasis>, that may be applied much further out until it become the stars become too faint to identify their spectral type.</para>
+      <figure id="import-auto-idm527800448"><media id="import-auto-idm303037776" alt="">
+          <image mime-type="image/jpg" src="Image1.jpg" height="210" width="181"/>
+        </media>
+      <caption>Fig. A. Magnitudes from the fine error sensor, w(FES). Solid curves are light curves through a Visual (green) filter.<sup><footnote id="import-auto-footnote-4"> Edward G. Schmidt and Sidney B. Parsons, The Astrophysical Journal Supplement Series, 48:185-198, 1982. Henrietta S. Leavitt, Annals of Harvard College Observatory 60, 87 (1908); Henrietta Leavitt and Edward C. Pickering, Harvard College Observatory Circular 173 1-3 (1912).</footnote></sup></caption></figure><para id="import-auto-idm416250448">Cepheid Variable stars continue play a central role in cosmology, including questions such as the age of the universe.  This is due to the work of another of Annie Jump Cannon’s colleagues, Henrietta Leavitt (see Figure 19.10).<sup><footnote id="import-auto-footnote-5"> Henrietta S. Leavitt, Annals of Harvard College Observatory 60, 87 (1908); Henrietta Leavitt and Edward C. Pickering, Harvard College Observatory Circular 173 1-3 (1912)</footnote></sup> It is not often that nonscientists can catch a glimpse of the creative process of scientific advancement, much less the explication of a natural law as fundamental as then one named for the more famous astronomer, Edwin Hubble, who build upon her work.  The following extract is a description of what is coming to be called The Leavitt Law<sup><footnote id="import-auto-footnote-6"> See for instance, “The Cepheid Period-Luminosity Relation (The Leavitt Law) at Mid-Infrared Wavelengths. II. Second-Epoch LMC Data,” Barry F. Madore, Wendy L. Freedman, Jane Rigby, S. E. Persson, Laura Sturch, and Violet Mager, The Astrophysical Journal, Volume 695, Number 2 (2009); “Vetting Galactic Leavitt Law Calibrators Using Radial Velocities: On the Variability, Binarity, and Possible Parallax Error of 19 Long-Period Cepheids,” Casertano, S. Riess, A. G. Melis, C. Holl, B., The Astrophysical journal Supplement series, Vol.226(2) (2016).</footnote></sup> in her own words at the time of its discovery:  </para>
+      <para id="import-auto-idm288947712">In H.A. 60, No. 4, attention was called to the fact that the brighter variables [2] have the longer periods, but at that time it was felt that the number was too small to warrant the drawing of general conclusions. The periods of 8 additional variables which have been determined since that time, however, conform to the same law.</para>
+      <para id="import-auto-idm475194320">TABLE I.</para>
+      <para id="import-auto-idm292614896">PERIODS OF VARIABLE STARS IN THE SMALL MAGELLANIC CLOUD.</para>
+      <table id="import-auto-idm244648448" summary="">
+        <tgroup cols="14">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <thead>
+            <row>
+              <entry>H.</entry>
+              <entry>Max.</entry>
+              <entry>Min.</entry>
+              <entry>Epoch.</entry>
+              <entry>Period</entry>
+              <entry>Res. M.</entry>
+              <entry>Res. m.</entry>
+              <entry>H.</entry>
+              <entry>Max.</entry>
+              <entry>Min.</entry>
+              <entry>Epoch.</entry>
+              <entry>Period</entry>
+              <entry>Res. M.</entry>
+              <entry>Res. m.</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>
+                <emphasis effect="italics">d,</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="italics">d,</emphasis>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>
+                <emphasis effect="italics">d,</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="italics">d,</emphasis>
+              </entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>1505  </entry>
+              <entry>14.8   </entry>
+              <entry>16.1   </entry>
+              <entry>0.02   </entry>
+              <entry>1.25336   </entry>
+              <entry>-0.6</entry>
+              <entry>-0.5</entry>
+              <entry>1400</entry>
+              <entry>14.1</entry>
+              <entry>14.8</entry>
+              <entry>4.0</entry>
+              <entry>6.650</entry>
+              <entry>+0.2</entry>
+              <entry>-0.3</entry>
+            </row>
+            <row>
+              <entry>1436  </entry>
+              <entry>14.8</entry>
+              <entry>16.4</entry>
+              <entry>0.02</entry>
+              <entry>1.6637</entry>
+              <entry>-0.3</entry>
+              <entry>+0.1</entry>
+              <entry>
+                <para id="import-auto-idm194832464">
+                  <emphasis effect="italics">1355</emphasis>
+                </para>
+              </entry>
+              <entry>14.0</entry>
+              <entry>14.8</entry>
+              <entry>4.8</entry>
+              <entry>7.483   </entry>
+              <entry>+0.2</entry>
+              <entry>-0.2</entry>
+            </row>
+            <row>
+              <entry>1446  </entry>
+              <entry>14.8</entry>
+              <entry>16.4</entry>
+              <entry>1.38</entry>
+              <entry>1.7620</entry>
+              <entry>-0.3</entry>
+              <entry>+0.1</entry>
+              <entry>1374</entry>
+              <entry>13.9</entry>
+              <entry>15.2</entry>
+              <entry>6.0</entry>
+              <entry>8.397</entry>
+              <entry>+0.2</entry>
+              <entry>-0.3</entry>
+            </row>
+            <row>
+              <entry>1506  </entry>
+              <entry>15.1</entry>
+              <entry>16.3</entry>
+              <entry>1.08</entry>
+              <entry>1.87502</entry>
+              <entry>+0.1</entry>
+              <entry>+0.1</entry>
+              <entry>818</entry>
+              <entry>13.6</entry>
+              <entry>14.7</entry>
+              <entry>4.0</entry>
+              <entry>10.336</entry>
+              <entry>0.0</entry>
+              <entry>0.0</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">1413 </emphasis>
+              </entry>
+              <entry>14.7</entry>
+              <entry>15.6</entry>
+              <entry>0.35</entry>
+              <entry>2.17352</entry>
+              <entry>-0.2</entry>
+              <entry>-0.5</entry>
+              <entry>
+                <para id="import-auto-idm581816480">
+                  <emphasis effect="italics">1610</emphasis>
+                </para>
+              </entry>
+              <entry>13.4</entry>
+              <entry>14.6</entry>
+              <entry>11.0</entry>
+              <entry>11.645</entry>
+              <entry>0.0</entry>
+              <entry>0.0</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">1460 </emphasis>
+              </entry>
+              <entry>14.4</entry>
+              <entry>15.7</entry>
+              <entry>0.00</entry>
+              <entry>2.913</entry>
+              <entry>-0.3</entry>
+              <entry>-0.1</entry>
+              <entry>
+                <para id="import-auto-idm496406736">
+                  <emphasis effect="italics">1365</emphasis>
+                </para>
+              </entry>
+              <entry>13.8</entry>
+              <entry>14.8</entry>
+              <entry>9.6</entry>
+              <entry>12.417</entry>
+              <entry>+0.4</entry>
+              <entry>+0.2</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">1422 </emphasis>
+              </entry>
+              <entry>14.7</entry>
+              <entry>15.9</entry>
+              <entry>0.6</entry>
+              <entry>3.501</entry>
+              <entry>+0.2</entry>
+              <entry>+0.2</entry>
+              <entry>
+                <emphasis effect="italics">1351</emphasis>
+              </entry>
+              <entry>13.4</entry>
+              <entry>14.4</entry>
+              <entry>4.0</entry>
+              <entry>13.08</entry>
+              <entry>+0.1</entry>
+              <entry>-0.1</entry>
+            </row>
+            <row>
+              <entry>842  </entry>
+              <entry>14.6</entry>
+              <entry>16.1</entry>
+              <entry>2.61</entry>
+              <entry>4.2897</entry>
+              <entry>+0.3</entry>
+              <entry>+0.6</entry>
+              <entry>827</entry>
+              <entry>13.4</entry>
+              <entry>14.3</entry>
+              <entry>11.6</entry>
+              <entry>13.47</entry>
+              <entry>+0.1</entry>
+              <entry>-0.2</entry>
+            </row>
+            <row>
+              <entry>1425  </entry>
+              <entry>14.3</entry>
+              <entry>15.3</entry>
+              <entry>2.8</entry>
+              <entry>4.547</entry>
+              <entry>0.0</entry>
+              <entry>-0.1</entry>
+              <entry>
+                <para id="import-auto-idm432137824">
+                  <emphasis effect="italics">822</emphasis>
+                </para>
+              </entry>
+              <entry>13.0</entry>
+              <entry>14.6</entry>
+              <entry>13.0</entry>
+              <entry>16.75</entry>
+              <entry>-0.1</entry>
+              <entry>+0.3</entry>
+            </row>
+            <row>
+              <entry>1742  </entry>
+              <entry>14.3</entry>
+              <entry>15.5</entry>
+              <entry>0.95</entry>
+              <entry>4.9866</entry>
+              <entry>+0.1</entry>
+              <entry>+0.2</entry>
+              <entry>823</entry>
+              <entry>12.2</entry>
+              <entry>14.1</entry>
+              <entry>2.9</entry>
+              <entry>31.94</entry>
+              <entry>-0.3</entry>
+              <entry>+0.4</entry>
+            </row>
+            <row>
+              <entry>1646</entry>
+              <entry>14.4</entry>
+              <entry>15.4</entry>
+              <entry>4.30</entry>
+              <entry>5.311</entry>
+              <entry>+0.3</entry>
+              <entry>+0.1</entry>
+              <entry>824</entry>
+              <entry>11.4</entry>
+              <entry>12.8</entry>
+              <entry>4.</entry>
+              <entry>65.8</entry>
+              <entry>-0.4</entry>
+              <entry>-0.2</entry>
+            </row>
+            <row>
+              <entry>1649</entry>
+              <entry>14.3</entry>
+              <entry>15.2</entry>
+              <entry>5.05</entry>
+              <entry>5.323</entry>
+              <entry>+0.2</entry>
+              <entry>-0.1</entry>
+              <entry>821</entry>
+              <entry>11.2</entry>
+              <entry>12.1</entry>
+              <entry>97.</entry>
+              <entry>127.0</entry>
+              <entry>-0.1</entry>
+              <entry>-0.4</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">1492</emphasis>
+              </entry>
+              <entry>13.8</entry>
+              <entry>14.8</entry>
+              <entry>0.6</entry>
+              <entry>6.2926</entry>
+              <entry>-0.2</entry>
+              <entry>-0.4</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="import-auto-idm251830432">The relation is shown graphically in Figure 1, in which the abscissas are equal to the periods, expressed in days, and the ordinates are equal to the corresponding magnitudes at maxima and at minima. The two resulting curves, one for maxima and one for minima, are surprisingly smooth, and of remarkable form. In Figure 2, the abscissas are equal to the logarithms of the periods, and the ordinates to the corresponding magnitudes, as in Figure 1.</para>
+      <para id="import-auto-idm271640272">A straight line can readily be drawn among each of the two series of points corresponding to maxima and minima, thus showing that there is a simple relation between the brightness of the variables and their periods. The logarithm of the period increases by about 0.48 for each increase of one magnitude in brightness. The residuals of the maximum and minimum of each star from the lines in Figure 2 are given in the sixth and seventh columns of Table I. It is possible that the deviations from a straight line may become smaller when an absolute scale of magnitudes is used, and they may even indicate the corrections that need to be applied to the provisional scale.  It should be noticed that the average range, for bright and faint [3] variables alike, is about 1.2 magnitudes. Since the variables are probably at nearly the same distance from the Earth, their periods are apparently associated with their actual emission of light, as determined by their mass, density, and surface brightness.</para>
+      <figure id="import-auto-idm529710048"><media id="import-auto-idm187319504" alt="">
+          <image mime-type="image/jpg" src="Image2.jpg" height="189" width="384"/>
+        </media>
+      </figure><para id="import-auto-idm443267120">The faintness of the variables in the Magellanic Clouds seems to preclude the study of their spectra, with our present facilities. A number of brighter variables have similar light curves, as UY Cygni, and should repay careful study. The class of spectrum ought to be determined for as many such objects as possible. It is to be hoped, also, that the parallaxes of some variables of this type may be measured. </para>
+      <para id="import-auto-idm509981440">Some readers may find mathematical functions such as logarithms to be terra incognita.  One can understand what she is doing by simply replacing <emphasis effect="italics">log P</emphasis> in her second graph with “<emphasis effect="italics">x</emphasis>” and to put oneself on slightly firmer ground, though one may have last touched a graph many years ago.  In that long-ago class one was told that a straight line may be represented by the equation</para>
+      <para id="import-auto-idm452057536">
+        <emphasis effect="italics">y = s x + i,</emphasis>
+      </para>
+      <para id="import-auto-idm237581920">where <emphasis effect="italics">s</emphasis> is the slope of the line and <emphasis effect="italics">i</emphasis> is the point (the <emphasis effect="italics">y-intercept</emphasis>) where the line crosses the <emphasis effect="italics">y</emphasis>-axis.  We may read this off the upper line of her Fig. 2 as 15.6.  Since we are dealing with a graph whose y-axis, the magnitudes, has values that increase downward we must take <emphasis effect="italics">s</emphasis> as negative.  Its size is the reciprocal of “the period [that] increases by about 0.48 for each increase of one magnitude in brightness.”  Thus setting <emphasis effect="italics">y = m</emphasis><emphasis effect="italics">max</emphasis> we make explicit one version of Leavitt’s Law that is laid out in English in her paper and applied to maximum brightness:</para>
+      <para id="import-auto-idm566104624">
+        <emphasis effect="italics">m</emphasis>
+        <emphasis effect="italics">max</emphasis>
+        <emphasis effect="italics"> = -2.1 x + 15.6  .</emphasis>
+      </para>
+      <para id="import-auto-idm486773120">Let us see that we have the correct form for this by applying it at a particular point, say <emphasis effect="italics">x = 0.8</emphasis>:</para>
+      <para id="import-auto-idm532269584">
+        <emphasis effect="italics">m</emphasis>
+        <emphasis effect="italics">max</emphasis>
+        <emphasis effect="italics"> = -2.1 x + 15.6 = -2.1 ≥ 0.8 + 15.6 =13.92  ,</emphasis>
+      </para>
+      <para id="import-auto-idm575675584">which looks about right if one moves upward from <emphasis effect="italics"> 0.8</emphasis> on the horizontal axis of her Fig. 2 to the upper line and then moves leftward to the vertical axis, crossing at about<emphasis effect="italics"> 13.9</emphasis>. </para>
+      <para id="import-auto-idm305390304">A modern replacement of the data Leavitt relied upon<sup><footnote id="import-auto-footnote-7"><para id="import-auto-idm477312832">Victoria Scowcroft, Wendy L. Freedman, Barry F. Madore, Andy Monson, S. E. Persson, Jeff Rich, Mark Seibert, and Jane R. Rigby, The Astrophysical Journal, Volume 816, Number 2 (2016).  In their notation <emphasis effect="italics">m</emphasis><emphasis effect="italics">V</emphasis><emphasis effect="italics"> = </emphasis>a<sub>V</sub><emphasis effect="italics"> (log(P) -1.0) +</emphasis> b<sub>V</sub> with a<sub>V</sub> =<emphasis effect="italics">(</emphasis>-2.734± 0.031) and b<sub>V</sub> =<emphasis effect="italics"> (</emphasis>15.040 ± 0.034).</para></footnote></sup> gives a slope somewhat steeper, with a slightly different point where the line crosses the <emphasis effect="italics">y</emphasis> axis.  Thus, the Leavitt Law for apparent magnitudes becomes</para>
+      <para id="import-auto-idm539523424"><emphasis effect="italics">m</emphasis><emphasis effect="italics">V</emphasis><emphasis effect="italics"> =(</emphasis>-2.734± 0.031)<emphasis effect="italics"> log(P) + (</emphasis>15.040 ± 0.034+2.734± 0.031)<emphasis effect="italics"/></para>
+      <para id="import-auto-idm1119359968">To use this we must know the period.  Fig. B gives the fluctuations in the ultraviolet for Beta Doradus, plotted against the observation date.<sup><footnote id="import-auto-footnote-8"><para id="import-auto-idm214796144">Julian dates start on a day that precedes any recorded astronomical records, set to zero at noon Universal Time on January 1, 4713 BCE (on the Julian calendar).  A converter may be found at &lt;<link url="http://aa.usno.navy.mil/data/docs/JulianDate.php"><emphasis effect="underline">http://aa.usno.navy.mil/data/docs/JulianDate.php</emphasis></link>&gt;.</para></footnote></sup>  The period can be roughly determined by counting the number of days between when the cycle climbs through a magnitude of -3.1 from one trough at about day 788 and the climb out of the next trough at about day 798, or about 10 days.  Using many such cycles, the best estimate of the of period is 9.842 days.</para>
+      <figure id="import-auto-idm251479472"><media id="import-auto-idm474838912" alt="">
+          <image mime-type="image/jpg" src="Image3.jpg" height="339" width="575"/>
+        </media>
+      <caption>Table 2. OAO-2 ultraviolet light curve for ß Doradus.<sup><footnote id="import-auto-footnote-9"> James L. Hutchinson, Stephen J. Hill, Charles F. Lillie, The Astronomical Journal Volume 80, Number 12 December 1975.</footnote></sup></caption></figure><para id="import-auto-idm448976880"/><para id="import-auto-idm582778624"><emphasis effect="italics">m</emphasis><emphasis effect="italics">V</emphasis><emphasis effect="italics"> =(</emphasis>-2.734± 0.031)<emphasis effect="italics"> log(P) + (</emphasis>17.774 ± 0.065)<emphasis effect="italics"> = 15.07</emphasis>±0.07</para>
+      <para id="import-auto-idm457705920">We can using Turner’s M<sub>V</sub> = -3.91 ± 0.11, for this star, but not every Cepheid we wish to find the distance of will have a tabulated absolute magnitude.  That is where Leavitt’s Law comes into play.</para>
+      <para id="import-auto-idm289399440">Feast and Catchpole<sup><footnote id="import-auto-footnote-10"> Feast MW, Catchpole RM. 1997. MNRAS 286:L1</footnote></sup> used the Hipparcos satellite parallax data to create modern of the Leavitt Law, with the zero-period point (<emphasis effect="italics">y</emphasis>-intercept) set so that it represent the intrinsic absolute magnitudes <emphasis effect="italics">M</emphasis><emphasis effect="italics">V</emphasis> that Leavitt called for in her paper and is based on 26 galactic Cepehids, including Beta Doradus.  The slope they used is from Cepeheids in the Large Magellanic Cloud (LMC) and is a bit steeper than the 1912 value.  It can be cast into an equation as above,</para>
+      <para id="import-auto-idm528586000">
+        <emphasis effect="italics">M</emphasis>
+        <emphasis effect="italics">V</emphasis>
+        <emphasis effect="italics"> = -2.81 log P - 1.43</emphasis>
+      </para>
+      <para id="import-auto-idm1792550208">One may also create a graph of this relation, Fig. C, like Leavitt’s Fig. 2.</para>
+      <figure id="import-auto-idm301978672"><media id="import-auto-idm496108480" alt="">
+          <image mime-type="image/jpg" src="Image4.jpg" height="323" width="576"/>
+        </media>
+      <caption>The Leavitt Law from Hipparcos satellite parallax from Feast and Catchpole<sup>.</sup></caption></figure><para id="import-auto-idm437008992">To find the absolute magnitudes <emphasis effect="italics">M</emphasis><emphasis effect="italics">V</emphasis> of a Cepheid with a 9.8 day period (<emphasis effect="italics">Log(9.8) = 0.99), </emphasis>one moves upward from <emphasis effect="italics">0.99</emphasis> on the horizontal axis of Fig. C to the line and then moves leftward to the vertical axis, crossing at about<emphasis effect="italics"> 4.2</emphasis>. This <emphasis effect="italics">M</emphasis><emphasis effect="italics">V</emphasis>  is a bit larger than Turner’s M<sub>V</sub> = -3.91 ± 0.11 because is represents an average of many stars. Then the distance to the SMC is</para>
+      <para id="import-auto-idm473929456"><m:math display="block">
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>D</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>10</m:mtext>
+                </m:mrow>
+                <m:mrow>
+                  <m:mstyle mathvariant="italic">
+                    <m:mtext>pc</m:mtext>
+                  </m:mstyle>
+                  <m:mo stretchy="false">∗</m:mo>
+                  <m:mn>1</m:mn>
+                </m:mrow>
+                <m:mtext>.</m:mtext>
+                <m:mrow>
+                  <m:msup>
+                    <m:mtext>585</m:mtext>
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mo stretchy="false">−</m:mo>
+                      <m:mi>M</m:mi>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>10</m:mtext>
+                </m:mrow>
+                <m:mrow>
+                  <m:mstyle mathvariant="italic">
+                    <m:mtext>pc</m:mtext>
+                  </m:mstyle>
+                  <m:mo stretchy="false">∗</m:mo>
+                  <m:mn>1</m:mn>
+                </m:mrow>
+                <m:mtext>.</m:mtext>
+                <m:mrow>
+                  <m:msup>
+                    <m:mtext>585</m:mtext>
+                    <m:mrow>
+                      <m:mtext>15</m:mtext>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>07</m:mtext>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mrow>
+                          <m:mo fence="true" stretchy="true">(</m:mo>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:mn>4</m:mn>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                          <m:mo fence="true" stretchy="true">)</m:mo>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>10</m:mtext>
+                </m:mrow>
+                <m:mrow>
+                  <m:mstyle mathvariant="italic">
+                    <m:mtext>pc</m:mtext>
+                  </m:mstyle>
+                  <m:mo stretchy="false">∗</m:mo>
+                  <m:mn>1</m:mn>
+                </m:mrow>
+                <m:mtext>.</m:mtext>
+                <m:mrow>
+                  <m:msup>
+                    <m:mtext>585</m:mtext>
+                    <m:mtext>1927</m:mtext>
+                  </m:msup>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>10</m:mtext>
+                </m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mstyle mathvariant="italic">
+                      <m:mtext>pc</m:mtext>
+                    </m:mstyle>
+                    <m:mo stretchy="false">∗</m:mo>
+                    <m:mtext>7154</m:mtext>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>71540</m:mtext>
+                </m:mrow>
+                <m:mrow>
+                  <m:mstyle mathvariant="italic">
+                    <m:mtext>pc</m:mtext>
+                  </m:mstyle>
+                  <m:mo stretchy="false">±</m:mo>
+                  <m:mtext>500</m:mtext>
+                </m:mrow>
+                <m:mstyle mathvariant="italic">
+                  <m:mtext>pc</m:mtext>
+                </m:mstyle>
+              </m:mrow>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{D="10" ital "pc"×1 "." "585" rSup { size 8{m-M} } ="10" ital "pc"×1 "." "585" rSup { size 8{"15" "." "07"- left (-4 "." 2 right )} } ="10" ital "pc"×1 "." "585" rSup { size 8{"1927"} } ="10" ital "pc"×"7154"="71540" ital "pc" +- "500" ital "pc"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="import-auto-idm248643600">Instead of the exponent <emphasis effect="italics">m - M</emphasis> = <emphasis effect="italics">19.27</emphasis>, called the<emphasis effect="italics"> distance modulus</emphasis>, Scowcroft <emphasis effect="italics">et al. </emphasis>using<emphasis effect="italics"/>a average of 92 such stars give a value of 19.20 <emphasis effect="italics">± 0.03</emphasis>, so we are doing pretty well.  They finally correct for reddening due to intervening dust, and average several colors of light, a combined correction of 0.24 magnitudes less, to get their final distance modulus of <emphasis effect="italics">18.96± 0.04</emphasis>., for a distance of <emphasis effect="italics">62 kpc ± 0.3</emphasis>.</para></section><section id="fs-id1165720692843" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-id1165720741062">Stars with identical temperatures but different pressures (and diameters) have somewhat different spectra. Spectral classification can therefore be used to estimate the luminosity class of a star as well as its temperature. As a result, a spectrum can allow us to pinpoint where the star is located on an H–R diagram and establish its luminosity. This, with the star’s apparent brightness, again yields its distance. The various distance methods can be used to check one against another and thus make a kind of distance ladder which allows us to find even larger distances.</para>
+</section>
+<section id="fs-id1165721180038" class="further-exploration">
+<title>For Further Exploration</title>
+<section id="fs-id1165720696965">
+<title>Articles</title>
+<para id="fs-id1165720736485">Adams, A. “The Triumph of Hipparcos.” <emphasis effect="italics">Astronomy</emphasis> (December 1997): 60. Brief introduction.</para>
+<para id="fs-id1165720729254">Dambeck, T. “Gaia’s Mission to the Milky Way.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (March 2008): 36–39. An introduction to the mission to measure distances and positions of stars with unprecedented accuracy.</para>
+<para id="fs-id1165720787815">Hirshfeld, A. “The Absolute Magnitude of Stars.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (September 1994): 35. Good review of how we measure luminosity, with charts.</para>
+<para id="fs-id1165721066631">Hirshfeld, A. “The Race to Measure the Cosmos.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (November 2001): 38. On parallax.</para>
+<para id="fs-id1165720697100">Trefil, J. Puzzling Out Parallax.” <emphasis effect="italics">Astronomy</emphasis> (September 1998): 46. On the concept and history of parallax.</para>
+<para id="fs-id1165720759111">Turon, C. “Measuring the Universe.” <emphasis effect="italics">Sky &amp; Telescope</emphasis> (July 1997): 28. On the Hipparcos mission and its results.</para>
+<para id="fs-id1165720746937">Zimmerman, R. “Polaris: The Code-Blue Star.” <emphasis effect="italics">Astronomy</emphasis> (March 1995): 45. On the famous cepheid variable and how it is changing.</para>
+</section>
+<section id="fs-id1165720906348">
+<title>Websites</title>
+<para id="fs-id1165720758016">ABCs of Distance: http://www.astro.ucla.edu/~wright/distance.htm. Astronomer Ned Wright (UCLA) gives a concise primer on many different methods of obtaining distances. This site is at a higher level than our textbook, but is an excellent review for those with some background in astronomy.</para>
+<para id="fs-id1165721180995">American Association of Variable Star Observers (AAVSO): https://www.aavso.org/. This organization of amateur astronomers helps to keep track of variable stars; its site has some background material, observing instructions, and links.</para>
+<para id="fs-id1165720821586">Friedrich Wilhelm Bessel: http://messier.seds.org/xtra/Bios/bessel.html. A brief site about the first person to detect stellar parallax, with references and links.</para>
+<para id="fs-id1165721046503">Gaia: http://sci.esa.int/gaia/. News from the Gaia mission, including images and a blog of the latest findings.</para>
+<para id="fs-id1165720820944">Hipparchos: http://sci.esa.int/hipparcos/. Background, results, catalogs of data, and educational resources from the Hipparchos mission to observe parallaxes from space. Some sections are technical, but others are accessible to students.</para>
+<para id="fs-id1165720701511">John Goodricke: The Deaf Astronomer: http://www.bbc.com/news/magazine-20725639. A biographical article from the BBC.</para>
+<para id="fs-id1165721011627">Women in Astronomy: http://www.astrosociety.org/education/astronomy-resource-guides/women-in-astronomy-an-introductory-resource-guide/. More about Henrietta Leavitt’s and other women’s contributions to astronomy and the obstacles they faced.</para>
+</section>
+<section id="fs-id1165720735343">
+<title>Videos</title>
+<para id="fs-id1165720724996">Gaia’s Mission: Solving the Celestial Puzzle: https://www.youtube.com/watch?v=oGri4YNggoc. Describes the Gaia mission and what scientists hope to learn, from Cambridge University (19:58).</para>
+<para id="fs-id1165720907162">Hipparcos: Route Map to the Stars: https://www.youtube.com/watch?v=4d8a75fs7KI. This ESA video describes the mission to measure parallax and its results (14:32)</para>
+<para id="fs-id1165720784050">How Big Is the Universe: https://www.youtube.com/watch?v=K_xZuopg4Sk. Astronomer Pete Edwards from the British Institute of Physics discusses the size of the universe and gives a step-by-step introduction to the concepts of distances (6:22)</para>
+<para id="fs-id1165721133818">Search for Miss Leavitt: http://perimeterinstitute.ca/videos/search-miss-leavitt., Video of talk by George Johnson on his search for Miss Leavitt (55:09).</para>
+<para id="fs-id1165719772320">Women in Astronomy: http://www.youtube.com/watch?v=5vMR7su4fi8. Emily Rice (CUNY) gives a talk on the contributions of women to astronomy, with many historical and contemporary examples, and an analysis of modern trends (52:54).</para>
+</section>
+</section>
+<section id="fs-id1165720750304" class="group-activities">
+<title>Collaborative Group Activities</title>
+<list id="fs-id1165719719204" list-type="enumerated" number-style="upper-alpha">
+<item>In this chapter, we explain the various measurements that have been used to establish the size of a standard meter. Your group should discuss why we have changed the definitions of our standard unit of measurement in science from time to time. What factors in our modern society contribute to the growth of technology? Does technology “drive” science, or does science “drive” technology? Or do you think the two are so intertwined that it’s impossible to say which is the driver?</item>
+<item>Cepheids are scattered throughout our own Milky Way Galaxy, but the period-luminosity relation was discovered from observations of the Magellanic Clouds, a satellite galaxy now known to be about 160,000 light-years away. What reasons can you give to explain why the relation was not discovered from observations of cepheids in our own Galaxy? Would your answer change if there were a small cluster in our own Galaxy that contained 20 cepheids? Why or why not?</item>
+<item>You want to write a proposal to use the Hubble Space Telescope to look for the brightest cepheids in galaxy M100 and estimate their luminosities. What observations would you need to make? Make a list of all the reasons such observations are harder than it first might appear.</item>
+<item>Why does your group think so many different ways of naming stars developed through history? (Think back to the days before everyone connected online.) Are there other fields where things are named confusingly and arbitrarily? How do stars differ from other phenomena that science and other professions tend to catalog?</item>
+<item>Although cepheids and RR Lyrae variable stars tend to change their brightness pretty regularly (while they are in that stage of their lives), some variable stars are unpredictable or change their their behavior even during the course of a single human lifetime. Amateur astronomers all over the world follow such variable stars patiently and persistently, sending their nightly observations to huge databases that are being kept on the behavior of many thousands of stars. None of the hobbyists who do this get paid for making such painstaking observations. Have your group discuss why they do it. Would you ever consider a hobby that involves so much work, long into the night, often on work nights? If observing variable stars doesn’t pique your interest, is there something you think you could do as a volunteer after college that does excite you? Why?</item>
+<item>In <link document="m59905" target-id="OSC_Astro_19_02_HRDiag"/>, the highest concentration of stars occurs in the middle of the main sequence. Can your group give reasons why this might be so? Why are there fewer very hot stars and fewer very cool stars on this diagram?</item>
+<item>In this chapter, we discuss two astronomers who were differently abled than their colleagues. John Goodricke could neither hear nor speak, and Henrietta Leavitt struggled with hearing impairment for all of her adult life. Yet they each made fundamental contributions to our understanding of the universe. Does your group know people who are handling a disability? What obstacles would people with different disabilities face in trying to do astronomy and what could be done to ease their way? For a set of resources in this area, see http://astronomerswithoutborders.org/gam2013/programs/1319-people-with-disabilities-astronomy-resources.html.</item>
+</list>
+</section>
+<section id="fs-id1165720819100" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-id1165720750155">
+<problem id="fs-id1165720718437">
+<para id="fs-id1165721121348">Explain how parallax measurements can be used to determine distances to stars. Why can we not make accurate measurements of parallax beyond a certain distance?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165721013815">
+<problem id="fs-id1165720956791">
+<para id="fs-id1165719606441">Suppose you have discovered a new cepheid variable star. What steps would you take to determine its distance?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720959978">
+<problem id="fs-id1165721081230">
+<para id="fs-id1165720875671">Explain how you would use the spectrum of a star to estimate its distance.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720686696">
+<problem id="fs-id1165720923516">
+<para id="fs-id1165721198939">Which method would you use to obtain the distance to each of the following?</para>
+<list id="fs-id1165720735110" list-type="enumerated" number-style="upper-alpha">
+<item>An asteroid crossing Earth’s orbit</item>
+<item>A star astronomers believe to be no more than 50 light-years from the Sun</item>
+<item>A tight group of stars in the Milky Way Galaxy that includes a significant number of variable stars</item>
+<item>A star that is not variable but for which you can obtain a clearly defined spectrum</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-id1165721057804">
+<problem id="fs-id1165720710425">
+<para id="fs-id1165720917657">What are the luminosity class and spectral type of a star with an effective temperature of 5000 K and a luminosity of 100 <emphasis effect="italics">L</emphasis><sub>Sun</sub>?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1165720813670" class="thought-questions">
+<title>Thought Questions</title>
+<exercise id="fs-id1165721195415">
+<problem id="fs-id1165720761510">
+<para id="fs-id1165721016788">The meter was redefined as a reference to Earth, then to krypton, and finally to the speed of light. Why do you think the reference point for a meter continued to change?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720930626">
+<problem id="fs-id1165720909638">
+<para id="fs-id1165721198171">While a meter is the fundamental unit of length, most distances traveled by humans are measured in miles or kilometers. Why do you think this is?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720732999">
+<problem id="fs-id1165720696427">
+<para id="fs-id1165720753844">Most distances in the Galaxy are measured in light-years instead of meters. Why do you think this is the case?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720786687">
+<problem id="fs-id1165720733090">
+<para id="fs-id1165720813586">The AU is defined as the <emphasis effect="italics">average</emphasis> distance between Earth and the Sun, not the distance between Earth and the Sun. Why does this need to be the case?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720755026">
+<problem id="fs-id1165720783992">
+<para id="fs-id1165720698667">What would be the advantage of making parallax measurements from Pluto rather than from Earth? Would there be a disadvantage?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720887174">
+<problem id="fs-id1165720741218">
+<para id="fs-id1165720694958">Parallaxes are measured in fractions of an arcsecond. One arcsecond equals 1/60 arcmin; an arcminute is, in turn, 1/60th of a degree (°). To get some idea of how big 1° is, go outside at night and find the Big Dipper. The two pointer stars at the ends of the bowl are 5.5° apart. The two stars across the top of the bowl are 10° apart. (Ten degrees is also about the width of your fist when held at arm’s length and projected against the sky.) Mizar, the second star from the end of the Big Dipper’s handle, appears double. The fainter star, Alcor, is about 12 arcmin from Mizar. For comparison, the diameter of the full moon is about 30 arcmin. The belt of Orion is about 3° long. Keeping all this in mind, why did it take until 1838 to make parallax measurements for even the nearest stars?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720723836">
+<problem id="fs-id1165720906787">
+<para id="fs-id1165721139944">For centuries, astronomers wondered whether comets were true celestial objects, like the planets and stars, or a phenomenon that occurred in the atmosphere of Earth. Describe an experiment to determine which of these two possibilities is correct.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720945671">
+<problem id="fs-id1165720739820">
+<para id="fs-id1165721195009">The Sun is much closer to Earth than are the nearest stars, yet it is not possible to measure accurately the diurnal parallax of the Sun relative to the stars by measuring its position relative to background objects in the sky directly. Explain why.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720749366">
+<problem id="fs-id1165720749223">
+<para id="fs-id1165721036086">Parallaxes of stars are sometimes measured relative to the positions of galaxies or distant objects called quasars. Why is this a good technique?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165721199607">
+<problem id="fs-id1165720731130">
+<para id="fs-id1165720737048">Estimating the luminosity class of an M star is much more important than measuring it for an O star if you are determining the distance to that star. Why is that the case?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720721223">
+<problem id="fs-id1165720909628">
+<para id="fs-id1165720682385"><link target-id="OSC_Astro_19_03_Curve" document="m59906"/> is the light curve for the prototype cepheid variable Delta Cephei. How does the luminosity of this star compare with that of the Sun?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165721048026">
+<problem id="fs-id1165720749259">
+<para id="fs-id1165720947229">Which of the following can you determine about a star without knowing its distance, and which can you not determine: radial velocity, temperature, apparent brightness, or luminosity? Explain.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720886194">
+<problem id="fs-id1165720935351">
+<para id="fs-id1165719631893">A G2 star has a luminosity 100 times that of the Sun. What kind of star is it? How does its radius compare with that of the Sun?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720681499">
+<problem id="fs-id1165721064947">
+<para id="fs-id1165720680613">A star has a temperature of 10,000 K and a luminosity of 10<sup>–2</sup> <emphasis effect="italics">L</emphasis><sub>Sun</sub>. What kind of star is it?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720896779">
+<problem id="fs-id1165720708865">
+<para id="fs-id1165720744055">What is the advantage of measuring a parallax distance to a star as compared to our other distance measuring methods?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720910353">
+<problem id="fs-id1165720756075">
+<para id="fs-id1165720784172">What is the disadvantage of the parallax method, especially for studying distant parts of the Galaxy?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720886920">
+<problem id="fs-id1165720941188">
+<para id="fs-id1165720910765">Luhman 16 and WISE 0720 are brown dwarfs, also known as failed stars, and are some of the new closest neighbors to Earth, but were only discovered in the last decade. Why do you think they took so long to be discovered?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720756774">
+<problem id="fs-id1165721189204">
+<para id="fs-id1165719720085">Most stars close to the Sun are red dwarfs. What does this tell us about the average star formation event in our Galaxy?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720735167">
+<problem id="fs-id1165720697310">
+<para id="fs-id1165720750076">Why would it be easier to measure the characteristics of intrinsically less luminous cepheids than more luminous ones?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165721043517">
+<problem id="fs-id1165720917532">
+<para id="fs-id1165720855932">When Henrietta Leavitt discovered the period-luminosity relationship, she used cepheid stars that were all located in the Large Magellanic Cloud. Why did she need to use stars in another galaxy and not cepheids located in the Milky Way?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1165721004469" class="figuring-for-yourself">
+<title>Figuring for Yourself</title>
+<exercise id="fs-id1165721044987">
+<problem id="fs-id1165720990728">
+<para id="fs-id1165721136857">A radar astronomer who is new at the job claims she beamed radio waves to Jupiter and received an echo exactly 48 min later. Should you believe her? Why or why not?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720784018">
+<problem id="fs-id1165720726719">
+<para id="fs-id1165721199052">The New Horizons probe flew past Pluto in July 2015. At the time, Pluto was about 32 AU from Earth. How long did it take for communication from the probe to reach Earth, given that the speed of light in km/hr is 1.08 × 10<sup>9</sup>?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720716176">
+<problem id="fs-id1165720889566">
+<para id="fs-id1165720691663">Estimate the maximum and minimum time it takes a radar signal to make the round trip between Earth and Venus, which has a semimajor axis of 0.72 AU.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720891501">
+<problem id="fs-id1165720855126">
+<para id="fs-id1165720784152">The Apollo program (not the lunar missions with astronauts) being conducted at the Apache Point Observatory uses a 3.5-m telescope to direct lasers at retro-reflectors left on the Moon by the Apollo astronauts. If the Moon is 384,472 km away, approximately how long do the operators need to wait to see the laser light return to Earth?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720748573">
+<problem id="fs-id1165720917238">
+<para id="fs-id1165721022680">In 1974, the Arecibo Radio telescope in Puerto Rico was used to transmit a signal to M13, a star cluster about 25,000 light-years away. How long will it take the message to reach M13, and how far has the message travelled so far (in light-years)?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165721139274">
+<problem id="fs-id1165721127828">
+<para id="fs-id1165720707405">Demonstrate that 1 pc equals 3.09 × 10<sup>13</sup> km and that it also equals 3.26 light-years. Show your calculations.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165719781135">
+<problem id="fs-id1165720746325">
+<para id="fs-id1165721041772">The best parallaxes obtained with Hipparcos have an accuracy of 0.001 arcsec. If you want to measure the distance to a star with an accuracy of 10%, its parallax must be 10 times larger than the typical error. How far away can you obtain a distance that is accurate to 10% with Hipparcos data? The disk of our Galaxy is 100,000 light-years in diameter. What fraction of the diameter of the Galaxy’s disk is the distance for which we can measure accurate parallaxes?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720706643">
+<problem id="fs-id1165720819231">
+<para id="fs-id1165720935620">Astronomers are always making comparisons between measurements in astronomy and something that might be more familiar. For example, the Hipparcos web pages tell us that the measurement accuracy of 0.001 arcsec is equivalent to the angle made by a golf ball viewed from across the Atlantic Ocean, or to the angle made by the height of a person on the Moon as viewed from Earth, or to the length of growth of a human hair in 10 sec as seen from 10 meters away. Use the ideas in <link target-id="fs-id1165721912771" document="m59905"/> to verify one of the first two comparisons.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720861456">
+<problem id="fs-id1165720715551">
+<para id="fs-id1165720736618"><emphasis effect="italics">Gaia</emphasis> will have greatly improved precision over the measurements of Hipparcos. The average uncertainty for most <emphasis effect="italics">Gaia</emphasis> parallaxes will be about 50 microarcsec, or 0.00005 arcsec. How many times better than Hipparcos (see <link target-id="fs-id1165719781135"/>) is this precision?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720757967">
+<problem id="fs-id1165721140736">
+<para id="fs-id1165721197977">Using the same techniques as used in <link target-id="fs-id1165719781135"/>, how far away can <emphasis effect="italics">Gaia</emphasis> be used to measure distances with an uncertainty of 10%? What fraction of the Galactic disk does this correspond to?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720731718">
+<problem id="fs-id1165721196900">
+<para id="fs-id1165720786393">The human eye is capable of an angular resolution of about one arcminute, and the average distance between eyes is approximately 2 in. If you blinked and saw something move about one arcmin across, how far away from you is it? (Hint: You can use the setup in <link target-id="fs-id1165721912771" document="m59905"/> as a guide.)</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720931631">
+<problem id="fs-id1165720748622">
+<para id="fs-id1165720934332">How much better is the resolution of the <emphasis effect="italics">Gaia</emphasis> spacecraft compared to the human eye (which can resolve about 1 arcmin)?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720929231">
+<problem id="fs-id1165720737224">
+<para id="fs-id1165720811250">The most recently discovered system close to Earth is a pair of brown dwarfs known as Luhman 16. It has a distance of 6.5 light-years. How many parsecs is this?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720753543">
+<problem id="fs-id1165720911237">
+<para id="fs-id1165720741100">What would the parallax of Luhman 16 (see <link target-id="fs-id1165720929231"/>) be as measured from Earth?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165721045748">
+<problem id="fs-id1165720910154">
+<para id="fs-id1165720673927">The New Horizons probe that passed by Pluto during July 2015 is one of the fastest spacecraft ever assembled. It was moving at about 14 km/s when it went by Pluto. If it maintained this speed, how long would it take New Horizons to reach the nearest star, Proxima Centauri, which is about 4.3 light-years away? (Note: It isn’t headed in that direction, but you can pretend that it is.)</para>
+</problem>
+</exercise>
+<exercise id="fs-id1165720905675">
+<problem id="fs-id1165720725185">
+<para id="fs-id1165720742789">What physical properties are different for an M giant with a luminosity of 1000 <emphasis effect="italics">L</emphasis><sub>Sun</sub> and an M dwarf with a luminosity of 0.5 <emphasis effect="italics">L</emphasis><sub>Sun</sub>? What physical properties are the same?</para>
+</problem>
+</exercise><exercise id="eip-4"><problem id="eip-6">
+  <para id="eip-933">The star TRAPPIST-1 has been found to have seven terrestrial planets within its habitable zone.  Its parallax is 0.08258 ± 0.000258 arc seconds. It has apparent magnitude m<sub>V</sub> = 18.80 and absolute magnitude M<sub>V</sub> = 18.4±0.1.  Use both methods at your disposal to find its distance.  How do they compare?
+  </para></problem>
+
+</exercise><exercise id="eip-812"><problem id="eip-911">
+  <para id="eip-661">The visual light curve<sup><footnote id="import-auto-footnote-11"> Data from “CCD light curves for seven Cepheid variables in the LMC cluster NGC 1866,” Walker, A. R., Journal: Monthly Notices of the Royal Astronomical Society (ISSN 0035-8711), vol. 225, p. 627-641, (1987).</footnote></sup> is shown for the Cepheid Variable star HV 12198 in the Large Magellanic Cloud (LMC). It has apparent magnitude m<sub>V</sub> = 15.77. Measure its period.  Use the Leavitt Law (using the graph or Feast and Catchpole’s equation<sup>10</sup>) to get its absolute magnitude M<sub>V</sub>.  Correct the distance modulus m<sub>V</sub> - M<sub>V</sub> for intervening dust and by subtracting the same  0.24 magnitudes that Scowcroft <emphasis effect="italics">et al.</emphasis> did for the SMC.<sup>7&gt;</sup> Find the distance to the LMC. 
+
+  </para></problem>
+
+</exercise><code id="eip-93" display="block"><media id="import-auto-idm491494112" alt="">
+        <image mime-type="image/jpg" src="Image1.jpg" height="337" width="575"/>
+      </media></code></section>
+</content>
+<glossary>
+<definition id="fs-id1165720966646">
+<term>luminosity class</term>
+<meaning id="fs-id1165720747159">a classification of a star according to its luminosity within a given spectral class; our Sun, a G2V star, has luminosity class V, for example</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,634 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>addition to p 678 new figs</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63832</md:content-id>
+  <md:title>addition to p 678 new figs</md:title>
+  <md:abstract/>
+  <md:uuid>d3da4dd3-e88d-4c56-9913-ebf0ba40e556</md:uuid>
+</metadata>
+
+<content>
+    <code id="eip-995" display="block"><newline count="60"/></code><section id="import-auto-idm544485824">
+      <title>The Cosmological Distance Ladder</title>
+      <para id="import-auto-idm248095168">Let us actually find the distance to a star using the parallax technique. The bright Southern star Beta Doradus was observed by the Fine Guidance Sensor on the Hubble Space Telescope<sup><footnote id="import-auto-footnote-1"><para id="import-auto-idm265657088"> G. Fritz Benedict,<emphasis effect="italics"> et al.,</emphasis> The Astronomical Journal, Volume 133, Issue 4, pp. 1810-1827 (2007)</para></footnote></sup> to have a parallax of 0.00314 ±0.000016 arc seconds, so its distance is</para>
+      <para id="import-auto-idm412141424">D (pc) = 1/parallax (s) = 1/(0.00314 ±0.000059 s) = 318±15 pc.</para>
+      <para id="import-auto-idm258845696">If we want to understand the <emphasis effect="italics">why</emphasis> of stars as well as the <emphasis effect="italics">what</emphasis>, we must add to its catalogue of extrinsic properties like distance, position in the sky, spectral type, and <emphasis effect="italics">apparent brightness</emphasis> (b), that as seen at Earth.  The first step in investigating a star’s intrinsic properties is to define its <emphasis effect="italics">absolute brightness</emphasis> or <emphasis effect="italics">luminosity</emphasis> (L), defined as how bright it would be if it were precisely 10 pc away.</para>
+      <para id="import-auto-idm510304784">As seen in Figure 5.5, brightness falls off with the square of the distance, so the ratio of the luminosity at 10 pc, L<sub>@10pc</sub>, to the <emphasis effect="italics">apparent </emphasis>brightness, b, we see at its true distance will give the ratios of the squares of the star’s true distance divided by 10 pc:<sup><footnote id="import-auto-footnote-2"> The subscript is redundant but helpful to keep the first few times one encounters this idea.</footnote></sup></para>
+      <para id="import-auto-idm248654288"><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mrow><m:mrow><m:mfrac><m:msub><m:mi>L</m:mi><m:mrow><m:mi>@</m:mi><m:mtext>10</m:mtext><m:mstyle mathvariant="italic"><m:mtext>pc</m:mtext></m:mstyle></m:mrow></m:msub><m:mi>b</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:msup><m:mi>D</m:mi><m:mn>2</m:mn></m:msup><m:msup><m:mrow><m:mo fence="true" stretchy="true">(</m:mo><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mstyle mathvariant="italic"><m:mtext>pc</m:mtext></m:mstyle></m:mrow></m:mrow><m:mo fence="true" stretchy="true">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mfrac></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {L rSub { size 8{@"10" ital "pc"} } }  over  {b} } = {  {D rSup { size 8{2} } }  over  { left ("10" ital "pc" right ) rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math>  .</para>
+      <para id="import-auto-idm552691136">In Example 17 we presented a relationship between the ratio of brightnesses of two different stars and their <emphasis effect="italics">apparent magnitudes</emphasis> .  (The difference of the latter is proportional to the logarithm of the former.) We can use this same relation for the ratio for <emphasis effect="italics">absolute luminosity</emphasis>  (L) to the <emphasis effect="italics">apparent brightness</emphasis> (b) of a single star in for the parallel quantities called the <emphasis effect="italics">absolute magnitude </emphasis>(M)<emphasis effect="italics"/>and<emphasis effect="italics"> apparent magnitude</emphasis>  (m).  That is</para>
+      <para id="import-auto-idm540105232">
+        <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block">
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mi>M</m:mi>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>2</m:mn>
+                </m:mrow>
+                <m:mtext>.</m:mtext>
+                <m:mn>5</m:mn>
+                <m:mtext>log</m:mtext>
+                <m:mrow>
+                  <m:mo fence="true" stretchy="true">(</m:mo>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mi>L</m:mi>
+                      <m:mi>b</m:mi>
+                    </m:mfrac>
+                  </m:mrow>
+                  <m:mo fence="true" stretchy="true">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{m-M=2 "." 5"log" left ( {  {L}  over  {b} }  right )} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="import-auto-idm269438224">If we know the distance from its parallax, we can use distance ratio above in this expression to give the intrinsic, <emphasis effect="italics">absolute magnitude </emphasis>(M) of any star:  </para>
+      <para id="import-auto-idm473148048"><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>M</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mrow><m:mtext>.</m:mtext><m:mn>5</m:mn><m:mtext>log</m:mtext><m:mrow><m:mrow><m:mo fence="true" stretchy="true">(</m:mo><m:mrow><m:mfrac><m:mi>L</m:mi><m:mi>b</m:mi></m:mfrac></m:mrow><m:mo fence="true" stretchy="true">)</m:mo></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mrow><m:mtext>.</m:mtext><m:mn>5</m:mn><m:mtext>log</m:mtext><m:mrow><m:mrow><m:mo fence="true" stretchy="true">(</m:mo><m:mrow><m:msup><m:mrow><m:mo fence="true" stretchy="true">(</m:mo><m:mrow><m:mfrac><m:mi>D</m:mi><m:mrow><m:mtext>10</m:mtext><m:mstyle mathvariant="italic"><m:mtext>pc</m:mtext></m:mstyle></m:mrow></m:mfrac></m:mrow><m:mo fence="true" stretchy="true">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow><m:mo fence="true" stretchy="true">)</m:mo></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mrow><m:mtext>log</m:mtext><m:mrow><m:mo fence="true" stretchy="true">(</m:mo><m:mrow><m:mfrac><m:mi>D</m:mi><m:mrow><m:mtext>10</m:mtext><m:mstyle mathvariant="italic"><m:mtext>pc</m:mtext></m:mstyle></m:mrow></m:mfrac></m:mrow><m:mo fence="true" stretchy="true">)</m:mo></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{M=m-2 "." 5"log" left ( {  {L}  over  {b} }  right )=m-2 "." 5"log" left ( left ( {  {D}  over  {"10" ital "pc"} }  right ) rSup { size 8{2} }  right )=m-5"log" left ( {  {D}  over  {"10" ital "pc"} }  right )} {}</m:annotation></m:semantics></m:math>  ,</para>
+      <para id="import-auto-idm553260032">where we have used the property of logarithms that <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mrow><m:mrow><m:mtext>log</m:mtext><m:mrow><m:mrow><m:mo fence="true" stretchy="true">(</m:mo><m:mrow><m:msup><m:mi>a</m:mi><m:mi>p</m:mi></m:msup></m:mrow><m:mo fence="true" stretchy="true">)</m:mo></m:mrow><m:mo stretchy="false">=</m:mo><m:mi>p</m:mi></m:mrow><m:mtext>log</m:mtext><m:mrow><m:mo fence="true" stretchy="true">(</m:mo><m:mrow><m:mi>a</m:mi></m:mrow><m:mo fence="true" stretchy="true">)</m:mo></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"log" left (a rSup { size 8{p} }  right )=p"log" left (a right )} {}</m:annotation></m:semantics></m:math> to simplify the expression.  </para>
+      <para id="import-auto-idm1135074720">Beta Doradus is a Cepheid variable star whose apparent visual magnitude (m<sub>V</sub>) (seen through a green filter) is shown fluctuating around 3.63 over a full cycle in Fig. A.  Thus, its absolute magnitude (M<sub>V</sub>) must be</para>
+      <para id="import-auto-idm1706585776"><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mrow><m:mrow><m:mrow><m:msub><m:mi>M</m:mi><m:mi>V</m:mi></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>m</m:mi><m:mi>V</m:mi></m:msub><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mrow><m:mtext>log</m:mtext><m:mrow><m:mrow><m:mo fence="true" stretchy="true">(</m:mo><m:mrow><m:mfrac><m:mi>D</m:mi><m:mrow><m:mtext>10</m:mtext><m:mstyle mathvariant="italic"><m:mtext>pc</m:mtext></m:mstyle></m:mrow></m:mfrac></m:mrow><m:mo fence="true" stretchy="true">)</m:mo></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>63</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow><m:mtext>log</m:mtext><m:mrow><m:mrow><m:mo fence="true" stretchy="true">(</m:mo><m:mrow><m:mrow><m:mtext>31</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">±</m:mo><m:mn>1</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>5</m:mn></m:mrow></m:mrow><m:mo fence="true" stretchy="true">)</m:mo></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>63</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:mo fence="true" stretchy="true">(</m:mo><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>50</m:mtext><m:mo stretchy="false">±</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>02</m:mtext></m:mrow></m:mrow><m:mo fence="true" stretchy="true">)</m:mo></m:mrow><m:mtext>=-</m:mtext><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>88</m:mtext><m:mo stretchy="false">±</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>1</m:mn></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{M rSub { size 8{V} } =m rSub { size 8{V} } -5"log" left ( {  {D}  over  {"10" ital "pc"} }  right )=3 "." "63"-5"log" left ("31" "." 8 +- 1 "." 5 right )=3 "." "63"-5 left (1 "." "50" +- 0 "." "02" right )"=-"3 "." "88" +- 0 "." 1} {}</m:annotation></m:semantics></m:math>  .</para>
+      <para id="import-auto-idm274188160">That is, Beta Doradus would be almost as bright as Venus if it actually were 10 pc away rather than 318.  </para>
+      <para id="import-auto-idm196730640">Annie Jump Cannon was the central figure in establishing a catalogue of extrinsic spectroscopic properties of stars, a scaffold from which those who followed her might be able to garner ideas about the intrinsic properties of stars.  Major progress on this road was made by her young colleague Cecilia Helena Payne (later Payne-Gaposchkin, May 10, 1900 – December 7, 1979), in 1925 the first person to earn a Ph.D. in Astronomy from Radcliff (now part of Harvard). </para>
+      <para id="import-auto-idm486978240">Her doctoral dissertation, published as “Stellar Atmospheres, A Contribution to the Observational Study of High Temperature in the Reversing Layers of Stars” is one of the most highly read doctoral dissertations of all time. Building on the ionization theory developed by Indian physicist Megh Nad Saha, she was able to show that Cannon’s classification system was a measure of stars’ temperatures.  She also upended the conventional wisdom that stars’ compositions were roughly in proportion to the abundances on Earth by showing that stars contained roughly a million times more hydrogen than elements heavier than helium, a group of elements collectively referred to as “metals” by astronomers, though of course containing other sorts of heavy elements. </para>
+      <para id="import-auto-idm425994256">Modern determinations of the absolute magnitude correct for variations in a star’s proportion of such elements, called its “metallicity.”  They also correct for other intrinsic effects like a Cepheid’s evolutionary stage as it passes through what is called the instability strip color of the HR diagram, and extrinsic effects of like interstellar dust that reddens and dims the light from a star.  All of these effects alter m<sub>V</sub> and hence the value we calculate for M<sub>V</sub>. With such considerations, David G. Turner<sup><footnote id="import-auto-footnote-3"> David G. Turner, Astrophysics and Space Science, Volume 326, Issue 2, pp 219–231, 2010.</footnote></sup> places the absolute visual magnitude of Beta Doradus at </para>
+      <para id="import-auto-idm495640672">M<sub>V</sub> = -3.91 ± 0.11  .</para>
+      <para id="import-auto-idm528885632">Once one has calibrated many stars in Cannon’s classification scheme through this means, Cepheid or not, one may reverse the process and find a star’s distance from its absolute magnitude by using the other relation in Example 17,</para>
+      <para id="import-auto-idm502757920"><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mrow><m:mrow><m:mrow><m:mfrac><m:msub><m:mi>L</m:mi><m:mrow><m:mi>@</m:mi><m:mtext>10</m:mtext><m:mstyle mathvariant="italic"><m:mtext>pc</m:mtext></m:mstyle></m:mrow></m:msub><m:mi>b</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:msup><m:mrow><m:mo fence="true" stretchy="true">(</m:mo><m:mrow><m:msup><m:mtext>100</m:mtext><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mn>2</m:mn></m:mrow></m:msup></m:mrow><m:mo fence="true" stretchy="true">)</m:mo></m:mrow><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">−</m:mo><m:mi>M</m:mi></m:mrow></m:msup><m:mo stretchy="false">=</m:mo><m:mn>2</m:mn></m:mrow><m:mtext>.</m:mtext><m:msup><m:mtext>512</m:mtext><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">−</m:mo><m:mi>M</m:mi></m:mrow></m:msup></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {L rSub { size 8{@"10" ital "pc"} } }  over  {b} } = left ("100" rSup { size 8{0 "." 2} }  right ) rSup { size 8{m-M} } =2 "." "512" rSup { size 8{m-M} } } {}</m:annotation></m:semantics></m:math>  .</para>
+      <para id="import-auto-idm511808992">This slips nicely into our distance relation to give</para>
+      <para id="import-auto-idm461125536">
+        <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block">
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>D</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>10</m:mtext>
+                </m:mrow>
+                <m:mstyle mathvariant="italic">
+                  <m:mtext>pc</m:mtext>
+                </m:mstyle>
+                <m:mrow>
+                  <m:msqrt>
+                    <m:mfrac>
+                      <m:msub>
+                        <m:mi>L</m:mi>
+                        <m:mrow>
+                          <m:mi>@</m:mi>
+                          <m:mtext>10</m:mtext>
+                          <m:mstyle mathvariant="italic">
+                            <m:mtext>pc</m:mtext>
+                          </m:mstyle>
+                        </m:mrow>
+                      </m:msub>
+                      <m:mi>b</m:mi>
+                    </m:mfrac>
+                  </m:msqrt>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>10</m:mtext>
+                </m:mrow>
+                <m:mstyle mathvariant="italic">
+                  <m:mtext>pc</m:mtext>
+                </m:mstyle>
+                <m:mrow>
+                  <m:msqrt>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo fence="true" stretchy="true">(</m:mo>
+                        <m:mrow>
+                          <m:msup>
+                            <m:mtext>100</m:mtext>
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                              <m:mtext>.</m:mtext>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:msup>
+                        </m:mrow>
+                        <m:mo fence="true" stretchy="true">)</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>m</m:mi>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mi>M</m:mi>
+                      </m:mrow>
+                    </m:msup>
+                  </m:msqrt>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>10</m:mtext>
+                </m:mrow>
+                <m:mstyle mathvariant="italic">
+                  <m:mtext>pc</m:mtext>
+                </m:mstyle>
+                <m:mrow>
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mtext>.</m:mtext>
+                      <m:msup>
+                        <m:mtext>512</m:mtext>
+                        <m:mrow>
+                          <m:mi>m</m:mi>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mi>M</m:mi>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:msqrt>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>10</m:mtext>
+                </m:mrow>
+                <m:mrow>
+                  <m:mstyle mathvariant="italic">
+                    <m:mtext>pc</m:mtext>
+                  </m:mstyle>
+                  <m:mo stretchy="false">∗</m:mo>
+                  <m:mn>1</m:mn>
+                </m:mrow>
+                <m:mtext>.</m:mtext>
+                <m:msup>
+                  <m:mtext>585</m:mtext>
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mi>M</m:mi>
+                  </m:mrow>
+                </m:msup>
+              </m:mrow>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{D="10" ital "pc" sqrt { {  {L rSub { size 8{@"10" ital "pc"} } }  over  {b} } } ="10" ital "pc" sqrt { left ("100" rSup { size 8{0 "." 2} }  right ) rSup { size 8{m-M} } } ="10" ital "pc" sqrt {2 "." "512" rSup { size 8{m-M} } } ="10" ital "pc"*1 "." "585" rSup { size 8{m-M} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="import-auto-idm242804352">This is a helpful new rung on a distance ladder for finding distances to stars too far away for parallax measurements and is called <emphasis effect="italics">spectroscopic parallax</emphasis>, that may be applied much further out until it become the stars become too faint to identify their spectral type.</para>
+      <figure id="import-auto-idm527800448"><media id="import-auto-idm303037776" alt="">
+          <image mime-type="image/jpg" src="../../media/Image1-90f9.jpg" height="210" width="181"/>
+        </media>
+      <caption>Fig. A. Magnitudes from the fine error sensor, w(FES). Solid curves are light curves through a Visual (green) filter.<sup><footnote id="import-auto-footnote-4"> Edward G. Schmidt and Sidney B. Parsons, The Astrophysical Journal Supplement Series, 48:185-198, 1982. Henrietta S. Leavitt, Annals of Harvard College Observatory 60, 87 (1908); Henrietta Leavitt and Edward C. Pickering, Harvard College Observatory Circular 173 1-3 (1912).</footnote></sup></caption></figure><para id="import-auto-idm416250448">Cepheid Variable stars continue play a central role in cosmology, including questions such as the age of the universe.  This is due to the work of another of Annie Jump Cannon’s colleagues, Henrietta Leavitt (see Figure 19.10).<sup><footnote id="import-auto-footnote-5"> Henrietta S. Leavitt, Annals of Harvard College Observatory 60, 87 (1908); Henrietta Leavitt and Edward C. Pickering, Harvard College Observatory Circular 173 1-3 (1912)</footnote></sup> It is not often that nonscientists can catch a glimpse of the creative process of scientific advancement, much less the explication of a natural law as fundamental as then one named for the more famous astronomer, Edwin Hubble, who build upon her work.  The following extract is a description of what is coming to be called The Leavitt Law<sup><footnote id="import-auto-footnote-6"> See for instance, “The Cepheid Period-Luminosity Relation (The Leavitt Law) at Mid-Infrared Wavelengths. II. Second-Epoch LMC Data,” Barry F. Madore, Wendy L. Freedman, Jane Rigby, S. E. Persson, Laura Sturch, and Violet Mager, The Astrophysical Journal, Volume 695, Number 2 (2009); “Vetting Galactic Leavitt Law Calibrators Using Radial Velocities: On the Variability, Binarity, and Possible Parallax Error of 19 Long-Period Cepheids,” Casertano, S. Riess, A. G. Melis, C. Holl, B., The Astrophysical journal Supplement series, Vol.226(2) (2016).</footnote></sup> in her own words at the time of its discovery:  </para>
+      <para id="import-auto-idm288947712">In H.A. 60, No. 4, attention was called to the fact that the brighter variables [2] have the longer periods, but at that time it was felt that the number was too small to warrant the drawing of general conclusions. The periods of 8 additional variables which have been determined since that time, however, conform to the same law.</para>
+      <para id="import-auto-idm475194320">TABLE I.</para>
+      <para id="import-auto-idm292614896">PERIODS OF VARIABLE STARS IN THE SMALL MAGELLANIC CLOUD.</para>
+      <table id="import-auto-idm244648448" summary="later">
+<tgroup cols="14"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <thead>
+            <row>
+            <entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/>
+<entry/></row><row>
+              <entry>H.</entry>
+              <entry>Max.</entry>
+              <entry>Min.</entry>
+              <entry>Epoch.</entry>
+              <entry>Period</entry>
+              <entry>Res. M.</entry>
+              <entry>Res. m.</entry>
+              <entry>H.</entry>
+              <entry>Max.</entry>
+              <entry>Min.</entry>
+              <entry>Epoch.</entry>
+              <entry>Period</entry>
+              <entry>Res. M.</entry>
+              <entry>Res. m.</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>
+                <emphasis effect="italics">d,</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="italics">d,</emphasis>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>
+                <emphasis effect="italics">d,</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="italics">d,</emphasis>
+              </entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>1505  </entry>
+              <entry>14.8   </entry>
+              <entry>16.1   </entry>
+              <entry>0.02   </entry>
+              <entry>1.25336   </entry>
+              <entry>-0.6</entry>
+              <entry>-0.5</entry>
+              <entry>1400</entry>
+              <entry>14.1</entry>
+              <entry>14.8</entry>
+              <entry>4.0</entry>
+              <entry>6.650</entry>
+              <entry>+0.2</entry>
+              <entry>-0.3</entry>
+            </row>
+            <row>
+              <entry>1436  </entry>
+              <entry>14.8</entry>
+              <entry>16.4</entry>
+              <entry>0.02</entry>
+              <entry>1.6637</entry>
+              <entry>-0.3</entry>
+              <entry>+0.1</entry>
+              <entry>
+                <para id="import-auto-idm194832464">
+                  <emphasis effect="italics">1355</emphasis>
+                </para>
+              </entry>
+              <entry>14.0</entry>
+              <entry>14.8</entry>
+              <entry>4.8</entry>
+              <entry>7.483   </entry>
+              <entry>+0.2</entry>
+              <entry>-0.2</entry>
+            </row>
+            <row>
+              <entry>1446  </entry>
+              <entry>14.8</entry>
+              <entry>16.4</entry>
+              <entry>1.38</entry>
+              <entry>1.7620</entry>
+              <entry>-0.3</entry>
+              <entry>+0.1</entry>
+              <entry>1374</entry>
+              <entry>13.9</entry>
+              <entry>15.2</entry>
+              <entry>6.0</entry>
+              <entry>8.397</entry>
+              <entry>+0.2</entry>
+              <entry>-0.3</entry>
+            </row>
+            <row>
+              <entry>1506  </entry>
+              <entry>15.1</entry>
+              <entry>16.3</entry>
+              <entry>1.08</entry>
+              <entry>1.87502</entry>
+              <entry>+0.1</entry>
+              <entry>+0.1</entry>
+              <entry>818</entry>
+              <entry>13.6</entry>
+              <entry>14.7</entry>
+              <entry>4.0</entry>
+              <entry>10.336</entry>
+              <entry>0.0</entry>
+              <entry>0.0</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">1413 </emphasis>
+              </entry>
+              <entry>14.7</entry>
+              <entry>15.6</entry>
+              <entry>0.35</entry>
+              <entry>2.17352</entry>
+              <entry>-0.2</entry>
+              <entry>-0.5</entry>
+              <entry>
+                <para id="import-auto-idm581816480">
+                  <emphasis effect="italics">1610</emphasis>
+                </para>
+              </entry>
+              <entry>13.4</entry>
+              <entry>14.6</entry>
+              <entry>11.0</entry>
+              <entry>11.645</entry>
+              <entry>0.0</entry>
+              <entry>0.0</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">1460 </emphasis>
+              </entry>
+              <entry>14.4</entry>
+              <entry>15.7</entry>
+              <entry>0.00</entry>
+              <entry>2.913</entry>
+              <entry>-0.3</entry>
+              <entry>-0.1</entry>
+              <entry>
+                <para id="import-auto-idm496406736">
+                  <emphasis effect="italics">1365</emphasis>
+                </para>
+              </entry>
+              <entry>13.8</entry>
+              <entry>14.8</entry>
+              <entry>9.6</entry>
+              <entry>12.417</entry>
+              <entry>+0.4</entry>
+              <entry>+0.2</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">1422 </emphasis>
+              </entry>
+              <entry>14.7</entry>
+              <entry>15.9</entry>
+              <entry>0.6</entry>
+              <entry>3.501</entry>
+              <entry>+0.2</entry>
+              <entry>+0.2</entry>
+              <entry>
+                <emphasis effect="italics">1351</emphasis>
+              </entry>
+              <entry>13.4</entry>
+              <entry>14.4</entry>
+              <entry>4.0</entry>
+              <entry>13.08</entry>
+              <entry>+0.1</entry>
+              <entry>-0.1</entry>
+            </row>
+            <row>
+              <entry>842  </entry>
+              <entry>14.6</entry>
+              <entry>16.1</entry>
+              <entry>2.61</entry>
+              <entry>4.2897</entry>
+              <entry>+0.3</entry>
+              <entry>+0.6</entry>
+              <entry>827</entry>
+              <entry>13.4</entry>
+              <entry>14.3</entry>
+              <entry>11.6</entry>
+              <entry>13.47</entry>
+              <entry>+0.1</entry>
+              <entry>-0.2</entry>
+            </row>
+            <row>
+              <entry>1425  </entry>
+              <entry>14.3</entry>
+              <entry>15.3</entry>
+              <entry>2.8</entry>
+              <entry>4.547</entry>
+              <entry>0.0</entry>
+              <entry>-0.1</entry>
+              <entry>
+                <para id="import-auto-idm432137824">
+                  <emphasis effect="italics">822</emphasis>
+                </para>
+              </entry>
+              <entry>13.0</entry>
+              <entry>14.6</entry>
+              <entry>13.0</entry>
+              <entry>16.75</entry>
+              <entry>-0.1</entry>
+              <entry>+0.3</entry>
+            </row>
+            <row>
+              <entry>1742  </entry>
+              <entry>14.3</entry>
+              <entry>15.5</entry>
+              <entry>0.95</entry>
+              <entry>4.9866</entry>
+              <entry>+0.1</entry>
+              <entry>+0.2</entry>
+              <entry>823</entry>
+              <entry>12.2</entry>
+              <entry>14.1</entry>
+              <entry>2.9</entry>
+              <entry>31.94</entry>
+              <entry>-0.3</entry>
+              <entry>+0.4</entry>
+            </row>
+            <row>
+              <entry>1646</entry>
+              <entry>14.4</entry>
+              <entry>15.4</entry>
+              <entry>4.30</entry>
+              <entry>5.311</entry>
+              <entry>+0.3</entry>
+              <entry>+0.1</entry>
+              <entry>824</entry>
+              <entry>11.4</entry>
+              <entry>12.8</entry>
+              <entry>4.</entry>
+              <entry>65.8</entry>
+              <entry>-0.4</entry>
+              <entry>-0.2</entry>
+            </row>
+            <row>
+              <entry>1649</entry>
+              <entry>14.3</entry>
+              <entry>15.2</entry>
+              <entry>5.05</entry>
+              <entry>5.323</entry>
+              <entry>+0.2</entry>
+              <entry>-0.1</entry>
+              <entry>821</entry>
+              <entry>11.2</entry>
+              <entry>12.1</entry>
+              <entry>97.</entry>
+              <entry>127.0</entry>
+              <entry>-0.1</entry>
+              <entry>-0.4</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">1492</emphasis>
+              </entry>
+              <entry>13.8</entry>
+              <entry>14.8</entry>
+              <entry>0.6</entry>
+              <entry>6.2926</entry>
+              <entry>-0.2</entry>
+              <entry>-0.4</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table><para id="import-auto-idm251830432">The relation is shown graphically in Figure 1, in which the abscissas are equal to the periods, expressed in days, and the ordinates are equal to the corresponding magnitudes at maxima and at minima. The two resulting curves, one for maxima and one for minima, are surprisingly smooth, and of remarkable form. In Figure 2, the abscissas are equal to the logarithms of the periods, and the ordinates to the corresponding magnitudes, as in Figure 1.</para>
+      <para id="import-auto-idm271640272">A straight line can readily be drawn among each of the two series of points corresponding to maxima and minima, thus showing that there is a simple relation between the brightness of the variables and their periods. The logarithm of the period increases by about 0.48 for each increase of one magnitude in brightness. The residuals of the maximum and minimum of each star from the lines in Figure 2 are given in the sixth and seventh columns of Table I. It is possible that the deviations from a straight line may become smaller when an absolute scale of magnitudes is used, and they may even indicate the corrections that need to be applied to the provisional scale.  It should be noticed that the average range, for bright and faint [3] variables alike, is about 1.2 magnitudes. Since the variables are probably at nearly the same distance from the Earth, their periods are apparently associated with their actual emission of light, as determined by their mass, density, and surface brightness.</para>
+      <figure id="import-auto-idm529710048">
+        <media id="import-auto-idm187319504" alt="">
+          <image mime-type="image/jpg" src="../../media/Image2.jpg" height="284" width="576"/>
+        </media>
+      </figure>
+      <para id="import-auto-idm443267120">The faintness of the variables in the Magellanic Clouds seems to preclude the study of their spectra, with our present facilities. A number of brighter variables have similar light curves, as UY Cygni, and should repay careful study. The class of spectrum ought to be determined for as many such objects as possible. It is to be hoped, also, that the parallaxes of some variables of this type may be measured. </para>
+      <para id="import-auto-idm509981440">Some readers may find mathematical functions such as logarithms to be terra incognita.  One can understand what she is doing by simply replacing <emphasis effect="italics">log P</emphasis> in her second graph with “<emphasis effect="italics">x</emphasis>” and to put oneself on slightly firmer ground, though one may have last touched a graph many years ago.  In that long-ago class one was told that a straight line may be represented by the equation</para>
+      <para id="import-auto-idm452057536">
+        <emphasis effect="italics">y = s x + i,</emphasis>
+      </para>
+      <para id="import-auto-idm237581920">where <emphasis effect="italics">s</emphasis> is the slope of the line and <emphasis effect="italics">i</emphasis> is the point (the <emphasis effect="italics">y-intercept</emphasis>) where the line crosses the <emphasis effect="italics">y</emphasis>-axis.  We may read this off the upper line of her Fig. 2 as 15.6.  Since we are dealing with a graph whose y-axis, the magnitudes, has values that increase downward we must take <emphasis effect="italics">s</emphasis> as negative.  Its size is the reciprocal of “the period [that] increases by about 0.48 for each increase of one magnitude in brightness.”  Thus setting <emphasis effect="italics">y = m</emphasis><emphasis effect="italics">max</emphasis> we make explicit one version of Leavitt’s Law that is laid out in English in her paper and applied to maximum brightness:</para>
+      <para id="import-auto-idm566104624">
+        <emphasis effect="italics">m</emphasis>
+        <emphasis effect="italics">max</emphasis>
+        <emphasis effect="italics"> = -2.1 x + 15.6  .</emphasis>
+      </para>
+      <para id="import-auto-idm486773120">Let us see that we have the correct form for this by applying it at a particular point, say <emphasis effect="italics">x = 0.8</emphasis>:</para>
+      <para id="import-auto-idm532269584">
+        <emphasis effect="italics">m</emphasis>
+        <emphasis effect="italics">max</emphasis>
+        <emphasis effect="italics"> = -2.1 x + 15.6 = -2.1 ≥ 0.8 + 15.6 =13.92  ,</emphasis>
+      </para>
+      <para id="import-auto-idm575675584">which looks about right if one moves upward from <emphasis effect="italics"> 0.8</emphasis> on the horizontal axis of her Fig. 2 to the upper line and then moves leftward to the vertical axis, crossing at about<emphasis effect="italics"> 13.9</emphasis>. </para>
+      <para id="import-auto-idm305390304">A modern replacement of the data Leavitt relied upon<sup><footnote id="import-auto-footnote-7"><para id="import-auto-idm477312832"> Victoria Scowcroft, Wendy L. Freedman, Barry F. Madore, Andy Monson, S. E. Persson, Jeff Rich, Mark Seibert, and Jane R. Rigby, The Astrophysical Journal, Volume 816, Number 2 (2016).  In their notation <emphasis effect="italics">m</emphasis><emphasis effect="italics">V</emphasis><emphasis effect="italics"> = </emphasis>a<sub>V</sub><emphasis effect="italics"> (log(P) -1.0) +</emphasis> b<sub>V</sub> with a<sub>V</sub> =<emphasis effect="italics">(</emphasis>-2.734± 0.031) and b<sub>V</sub> =<emphasis effect="italics"> (</emphasis>15.040 ± 0.034).</para></footnote></sup> gives a slope somewhat steeper, with a slightly different point where the line crosses the <emphasis effect="italics">y</emphasis> axis.  Thus, the Leavitt Law for apparent magnitudes becomes</para>
+      <para id="import-auto-idm539523424"><emphasis effect="italics">m</emphasis><emphasis effect="italics">V</emphasis><emphasis effect="italics"> =(</emphasis>-2.734± 0.031)<emphasis effect="italics"> log(P) + (</emphasis>15.040 ± 0.034+2.734± 0.031)<emphasis effect="italics"/></para>
+      <para id="import-auto-idm1119359968">To use this we must know the period.  Fig. B gives the fluctuations in the ultraviolet for Beta Doradus, plotted against the observation date.<sup><footnote id="import-auto-footnote-8"><para id="import-auto-idm214796144"> Julian dates start on a day that precedes any recorded astronomical records, set to zero at noon Universal Time on January 1, 4713 BCE (on the Julian calendar).  A converter may be found at &lt;<link url="http://aa.usno.navy.mil/data/docs/JulianDate.php"><emphasis effect="underline">http://aa.usno.navy.mil/data/docs/JulianDate.php</emphasis></link>&gt;.</para></footnote></sup>  The period can be roughly determined by counting the number of days between when the cycle climbs through a magnitude of -3.1 from one trough at about day 788 and the climb out of the next trough at about day 798, or about 10 days.  Using many such cycles, the best estimate of the of period is 9.842 days.</para>
+      <figure id="import-auto-idm251479472"><media id="import-auto-idm474838912" alt="">
+          <image mime-type="image/jpg" src="../../media/Image3.jpg" height="226" width="383"/>
+        </media>
+      <caption>Table 2. OAO-2 ultraviolet light curve for ß Doradus.<sup><footnote id="import-auto-footnote-9"> James L. Hutchinson, Stephen J. Hill, Charles F. Lillie, The Astronomical Journal Volume 80, Number 12 December 1975.</footnote></sup></caption></figure><para id="import-auto-idm448976880"/><para id="import-auto-idm582778624"><emphasis effect="italics">m</emphasis><emphasis effect="italics">V</emphasis><emphasis effect="italics"> =(</emphasis>-2.734± 0.031)<emphasis effect="italics"> log(P) + (</emphasis>17.774 ± 0.065)<emphasis effect="italics"> = 15.07</emphasis>±0.07</para>
+      <para id="import-auto-idm457705920">We can using Turner’s M<sub>V</sub> = -3.91 ± 0.11, for this star, but not every Cepheid we wish to find the distance of will have a tabulated absolute magnitude.  That is where Leavitt’s Law comes into play.</para>
+      <para id="import-auto-idm289399440">Feast and Catchpole<sup><footnote id="import-auto-footnote-10"> Feast MW, Catchpole RM. 1997. MNRAS 286:L1</footnote></sup> used the Hipparcos satellite parallax data to create modern of the Leavitt Law, with the zero-period point (<emphasis effect="italics">y</emphasis>-intercept) set so that it represent the intrinsic absolute magnitudes <emphasis effect="italics">M</emphasis><emphasis effect="italics">V</emphasis> that Leavitt called for in her paper and is based on 26 galactic Cepehids, including Beta Doradus.  The slope they used is from Cepeheids in the Large Magellanic Cloud (LMC) and is a bit steeper than the 1912 value.  It can be cast into an equation as above,</para>
+      <para id="import-auto-idm528586000">
+        <emphasis effect="italics">M</emphasis>
+        <emphasis effect="italics">V</emphasis>
+        <emphasis effect="italics"> = -2.81 log P - 1.43</emphasis>
+      </para>
+      <para id="import-auto-idm1792550208">One may also create a graph of this relation, Fig. C, like Leavitt’s Fig. 2.</para>
+      <figure id="import-auto-idm301978672"><media id="import-auto-idm496108480" alt="">
+          <image mime-type="image/jpg" src="../../media/Image4.jpg" height="323" width="576"/>
+        </media>
+      <caption>The Leavitt Law from Hipparcos satellite parallax from Feast and Catchpole<sup>.</sup></caption></figure><para id="import-auto-idm437008992">To find the absolute magnitudes <emphasis effect="italics">M</emphasis><emphasis effect="italics">V</emphasis> of a Cepheid with a 9.8 day period (<emphasis effect="italics">Log(9.8) = 0.99), </emphasis>one moves upward from <emphasis effect="italics">0.99</emphasis> on the horizontal axis of Fig. C to the line and then moves leftward to the vertical axis, crossing at about<emphasis effect="italics"> 4.2</emphasis>. This <emphasis effect="italics">M</emphasis><emphasis effect="italics">V</emphasis>  is a bit larger than Turner’s M<sub>V</sub> = -3.91 ± 0.11 because is represents an average of many stars. Then the distance to the SMC is</para>
+      <para id="import-auto-idm473929456">
+        <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block">
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>D</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>10</m:mtext>
+                </m:mrow>
+                <m:mrow>
+                  <m:mstyle mathvariant="italic">
+                    <m:mtext>pc</m:mtext>
+                  </m:mstyle>
+                  <m:mo stretchy="false">∗</m:mo>
+                  <m:mn>1</m:mn>
+                </m:mrow>
+                <m:mtext>.</m:mtext>
+                <m:mrow>
+                  <m:msup>
+                    <m:mtext>585</m:mtext>
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mo stretchy="false">−</m:mo>
+                      <m:mi>M</m:mi>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>10</m:mtext>
+                </m:mrow>
+                <m:mrow>
+                  <m:mstyle mathvariant="italic">
+                    <m:mtext>pc</m:mtext>
+                  </m:mstyle>
+                  <m:mo stretchy="false">∗</m:mo>
+                  <m:mn>1</m:mn>
+                </m:mrow>
+                <m:mtext>.</m:mtext>
+                <m:mrow>
+                  <m:msup>
+                    <m:mtext>585</m:mtext>
+                    <m:mrow>
+                      <m:mtext>15</m:mtext>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mtext>07</m:mtext>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mrow>
+                          <m:mo fence="true" stretchy="true">(</m:mo>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:mn>4</m:mn>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                          <m:mo fence="true" stretchy="true">)</m:mo>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>10</m:mtext>
+                </m:mrow>
+                <m:mrow>
+                  <m:mstyle mathvariant="italic">
+                    <m:mtext>pc</m:mtext>
+                  </m:mstyle>
+                  <m:mo stretchy="false">∗</m:mo>
+                  <m:mn>1</m:mn>
+                </m:mrow>
+                <m:mtext>.</m:mtext>
+                <m:mrow>
+                  <m:msup>
+                    <m:mtext>585</m:mtext>
+                    <m:mtext>1927</m:mtext>
+                  </m:msup>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>10</m:mtext>
+                </m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mstyle mathvariant="italic">
+                      <m:mtext>pc</m:mtext>
+                    </m:mstyle>
+                    <m:mo stretchy="false">∗</m:mo>
+                    <m:mtext>7154</m:mtext>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>71540</m:mtext>
+                </m:mrow>
+                <m:mrow>
+                  <m:mstyle mathvariant="italic">
+                    <m:mtext>pc</m:mtext>
+                  </m:mstyle>
+                  <m:mo stretchy="false">±</m:mo>
+                  <m:mtext>500</m:mtext>
+                </m:mrow>
+                <m:mstyle mathvariant="italic">
+                  <m:mtext>pc</m:mtext>
+                </m:mstyle>
+              </m:mrow>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{D="10" ital "pc"*1 "." "585" rSup { size 8{m-M} } ="10" ital "pc"*1 "." "585" rSup { size 8{"15" "." "07"- left (-4 "." 2 right )} } ="10" ital "pc"*1 "." "585" rSup { size 8{"1927"} } ="10" ital "pc"*"7154"="71540" ital "pc" +- "500" ital "pc"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="import-auto-idm248643600">Instead of the exponent <emphasis effect="italics">m - M</emphasis> = <emphasis effect="italics">19.27</emphasis>, called the<emphasis effect="italics"> distance modulus</emphasis>, Scowcroft <emphasis effect="italics">et al. </emphasis>using<emphasis effect="italics"/>a average of 92 such stars give a value of 19.20 <emphasis effect="italics">± 0.03</emphasis>, so we are doing pretty well.  They finally correct for reddening due to intervening dust, and average several colors of light, a combined correction of 0.24 magnitudes less, to get their final distance modulus of <emphasis effect="italics">18.96± 0.04</emphasis>., for a distance of <emphasis effect="italics">62 kpc ± 0.3</emphasis>.</para></section>
+  </content>
+</document>

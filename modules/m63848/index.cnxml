@@ -1,0 +1,18 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>two new distance exercises for Chaper 19</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63848</md:content-id>
+  <md:title>two new distance exercises for Chaper 19</md:title>
+  <md:abstract>two new distance exercises for Chaper 19 of Astronomy</md:abstract>
+  <md:uuid>b6fd6808-4055-48d6-bf08-5218fc4a0a8f</md:uuid>
+</metadata>
+
+<content>
+    <code id="eip-277" display="block"><newline count="60"/></code><para id="import-auto-idm465164224">The star TRAPPIST-1 has been found to have seven terrestrial planets within its habitable zone.  Its parallax is 0.08258 ± 0.000258 arc seconds. It has apparent magnitude m<sub>V</sub> = 18.80 and absolute magnitude M<sub>V</sub> = 18.4±0.1.  Use both methods at your disposal to find its distance.  How do they compare?</para><para id="import-auto-idm280832336">The visual light curve<sup><footnote id="import-auto-footnote-1"> Data from “CCD light curves for seven Cepheid variables in the LMC cluster NGC 1866,” Walker, A. R., Journal: Monthly Notices of the Royal Astronomical Society (ISSN 0035-8711), vol. 225, p. 627-641, (1987).</footnote></sup> is shown for the Cepheid Variable star HV 12198 in the Large Magellanic Cloud (LMC). It has apparent magnitude m<sub>V</sub> = 15.77. Measure its period.  Use the Leavitt Law (using the graph or Feast and Catchpole’s equation<sup><footnote id="import-auto-footnote-2"> Feast MW, Catchpole RM. 1997. MNRAS 286:L1</footnote></sup>) to get its absolute magnitude M<sub>V</sub>.  Correct the distance modulus m<sub>V</sub> - M<sub>V</sub> for intervening dust and by subtracting the same  0.24 magnitudes that Scowcroft <emphasis effect="italics">et al.</emphasis> did for the SMC.<sup><footnote id="import-auto-footnote-3"><para id="import-auto-idm605959168"> Victoria Scowcroft, Wendy L. Freedman, Barry F. Madore, Andy Monson, S. E. Persson, Jeff Rich, Mark Seibert, and Jane R. Rigby, The Astrophysical Journal, Volume 816, Number 2 (2016).  In their notation <emphasis effect="italics">m</emphasis><emphasis effect="italics">V</emphasis><emphasis effect="italics"> = </emphasis>a<sub>V</sub><emphasis effect="italics"> (log(P) -1.0) +</emphasis> b<sub>V</sub> with a<sub>V</sub> =<emphasis effect="italics">(</emphasis>-2.734± 0.031) and b<sub>V</sub> =<emphasis effect="italics"> (</emphasis>15.040 ± 0.034).</para></footnote></sup> Find the distance to the LMC. </para>
+    <figure id="import-auto-idm302996464">
+      <media id="import-auto-idm491494112" alt="">
+        <image mime-type="image/jpg" src="../../media/Image1-3d4a.jpg" height="337" width="575"/>
+      </media>
+    </figure>
+  </content>
+</document>
